@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "myncurseslib.h": "c",
+        "stdlib.h": "c",
+        "datatypes.h": "c"
+    }
+}
