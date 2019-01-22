@@ -1,0 +1,6720 @@
+   --- Month 1, Year: 0 ---
+2000.00     Gross income this month
+1574.23     Net income if using PKK
+1654.23     Net income if not using PKK
+
+1574.23     Total earnings if using PKK
+1654.23     Total earnings if not using PKK 
+
+74.23       Total (earnings - expenses) if using PKK
+154.23      Total (earnings - expenses) is not using PKK 
+
+80.00       Employer cost 
+418.20      Accumulated PKK 
+
+   --- Month 2, Year: 0 ---
+2000.00     Gross income this month
+1574.23     Net income if using PKK
+1654.23     Net income if not using PKK
+
+3148.46     Total earnings if using PKK
+3308.46     Total earnings if not using PKK 
+
+148.46      Total (earnings - expenses) if using PKK
+308.46      Total (earnings - expenses) is not using PKK 
+
+80.00       Employer cost 
+581.40      Accumulated PKK 
+
+   --- Month 3, Year: 0 ---
+2000.00     Gross income this month
+1574.23     Net income if using PKK
+1654.23     Net income if not using PKK
+
+4722.68     Total earnings if using PKK
+4962.68     Total earnings if not using PKK 
+
+222.68      Total (earnings - expenses) if using PKK
+462.68      Total (earnings - expenses) is not using PKK 
+
+80.00       Employer cost 
+744.60      Accumulated PKK 
+
+   --- Month 4, Year: 0 ---
+2000.00     Gross income this month
+1574.23     Net income if using PKK
+1654.23     Net income if not using PKK
+
+6296.91     Total earnings if using PKK
+6616.91     Total earnings if not using PKK 
+
+296.91      Total (earnings - expenses) if using PKK
+616.91      Total (earnings - expenses) is not using PKK 
+
+80.00       Employer cost 
+907.80      Accumulated PKK 
+
+   --- Month 5, Year: 0 ---
+2000.00     Gross income this month
+1574.23     Net income if using PKK
+1654.23     Net income if not using PKK
+
+7871.14     Total earnings if using PKK
+8271.14     Total earnings if not using PKK 
+
+371.14      Total (earnings - expenses) if using PKK
+771.14      Total (earnings - expenses) is not using PKK 
+
+80.00       Employer cost 
+1071.00     Accumulated PKK 
+
+   --- Month 6, Year: 0 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+9607.79     Total earnings if using PKK
+10095.79    Total earnings if not using PKK 
+
+607.79      Total (earnings - expenses) if using PKK
+1095.79     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+1250.52     Accumulated PKK 
+
+   --- Month 7, Year: 0 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+11344.44    Total earnings if using PKK
+11920.44    Total earnings if not using PKK 
+
+844.44      Total (earnings - expenses) if using PKK
+1420.44     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+1430.04     Accumulated PKK 
+
+   --- Month 8, Year: 0 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+13081.09    Total earnings if using PKK
+13745.09    Total earnings if not using PKK 
+
+1081.09     Total (earnings - expenses) if using PKK
+1745.09     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+1609.56     Accumulated PKK 
+
+   --- Month 9, Year: 0 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+14817.74    Total earnings if using PKK
+15569.74    Total earnings if not using PKK 
+
+1317.74     Total (earnings - expenses) if using PKK
+2069.74     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+1789.08     Accumulated PKK 
+
+   --- Month 10, Year: 0 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+16554.39    Total earnings if using PKK
+17394.39    Total earnings if not using PKK 
+
+1554.39     Total (earnings - expenses) if using PKK
+2394.39     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+1968.60     Accumulated PKK 
+
+   --- Month 11, Year: 0 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+18291.04    Total earnings if using PKK
+19219.04    Total earnings if not using PKK 
+
+1791.04     Total (earnings - expenses) if using PKK
+2719.04     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+2148.12     Accumulated PKK 
+
+   --- Month 12, Year: 0 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+20027.69    Total earnings if using PKK
+21043.69    Total earnings if not using PKK 
+
+2027.69     Total (earnings - expenses) if using PKK
+3043.69     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+2327.64     Accumulated PKK 
+
+   --- Month 1, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+21764.34    Total earnings if using PKK
+22868.34    Total earnings if not using PKK 
+
+2264.34     Total (earnings - expenses) if using PKK
+3368.34     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+2807.00     Accumulated PKK 
+
+   --- Month 2, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+23500.99    Total earnings if using PKK
+24692.99    Total earnings if not using PKK 
+
+2500.99     Total (earnings - expenses) if using PKK
+3692.99     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+2990.11     Accumulated PKK 
+
+   --- Month 3, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+25237.64    Total earnings if using PKK
+26517.64    Total earnings if not using PKK 
+
+2737.64     Total (earnings - expenses) if using PKK
+4017.64     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+3173.22     Accumulated PKK 
+
+   --- Month 4, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+26974.29    Total earnings if using PKK
+28342.29    Total earnings if not using PKK 
+
+2974.29     Total (earnings - expenses) if using PKK
+4342.29     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+3356.33     Accumulated PKK 
+
+   --- Month 5, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+28710.94    Total earnings if using PKK
+30166.94    Total earnings if not using PKK 
+
+3210.94     Total (earnings - expenses) if using PKK
+4666.94     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+3539.44     Accumulated PKK 
+
+   --- Month 6, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+30447.59    Total earnings if using PKK
+31991.59    Total earnings if not using PKK 
+
+3447.59     Total (earnings - expenses) if using PKK
+4991.59     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+3722.55     Accumulated PKK 
+
+   --- Month 7, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+32184.24    Total earnings if using PKK
+33816.24    Total earnings if not using PKK 
+
+3684.24     Total (earnings - expenses) if using PKK
+5316.24     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+3905.66     Accumulated PKK 
+
+   --- Month 8, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+33920.89    Total earnings if using PKK
+35640.89    Total earnings if not using PKK 
+
+3920.89     Total (earnings - expenses) if using PKK
+5640.89     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+4088.77     Accumulated PKK 
+
+   --- Month 9, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+35657.54    Total earnings if using PKK
+37465.54    Total earnings if not using PKK 
+
+4157.54     Total (earnings - expenses) if using PKK
+5965.54     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+4271.88     Accumulated PKK 
+
+   --- Month 10, Year: 1 ---
+2200.00     Gross income this month
+1736.65     Net income if using PKK
+1824.65     Net income if not using PKK
+
+37394.19    Total earnings if using PKK
+39290.19    Total earnings if not using PKK 
+
+4394.19     Total (earnings - expenses) if using PKK
+6290.19     Total (earnings - expenses) is not using PKK 
+
+88.00       Employer cost 
+4454.99     Accumulated PKK 
+
+   --- Month 11, Year: 1 ---
+2400.00     Gross income this month
+1899.07     Net income if using PKK
+1995.07     Net income if not using PKK
+
+39293.26    Total earnings if using PKK
+41285.26    Total earnings if not using PKK 
+
+4793.26     Total (earnings - expenses) if using PKK
+6785.26     Total (earnings - expenses) is not using PKK 
+
+96.00       Employer cost 
+4654.75     Accumulated PKK 
+
+   --- Month 12, Year: 1 ---
+2400.00     Gross income this month
+1899.07     Net income if using PKK
+1995.07     Net income if not using PKK
+
+41192.34    Total earnings if using PKK
+43280.34    Total earnings if not using PKK 
+
+5192.34     Total (earnings - expenses) if using PKK
+7280.34     Total (earnings - expenses) is not using PKK 
+
+96.00       Employer cost 
+4854.51     Accumulated PKK 
+
+   --- Month 1, Year: 2 ---
+2400.00     Gross income this month
+1899.07     Net income if using PKK
+1995.07     Net income if not using PKK
+
+43091.41    Total earnings if using PKK
+45275.41    Total earnings if not using PKK 
+
+5591.41     Total (earnings - expenses) if using PKK
+7775.41     Total (earnings - expenses) is not using PKK 
+
+96.00       Employer cost 
+5410.04     Accumulated PKK 
+
+   --- Month 2, Year: 2 ---
+2400.00     Gross income this month
+1899.07     Net income if using PKK
+1995.07     Net income if not using PKK
+
+44990.48    Total earnings if using PKK
+47270.48    Total earnings if not using PKK 
+
+5990.48     Total (earnings - expenses) if using PKK
+8270.48     Total (earnings - expenses) is not using PKK 
+
+96.00       Employer cost 
+5613.79     Accumulated PKK 
+
+   --- Month 3, Year: 2 ---
+2400.00     Gross income this month
+1899.07     Net income if using PKK
+1995.07     Net income if not using PKK
+
+46889.56    Total earnings if using PKK
+49265.56    Total earnings if not using PKK 
+
+6389.56     Total (earnings - expenses) if using PKK
+8765.56     Total (earnings - expenses) is not using PKK 
+
+96.00       Employer cost 
+5817.54     Accumulated PKK 
+
+   --- Month 4, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+48951.05    Total earnings if using PKK
+51431.05    Total earnings if not using PKK 
+
+6951.05     Total (earnings - expenses) if using PKK
+9431.05     Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+6038.27     Accumulated PKK 
+
+   --- Month 5, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+51012.55    Total earnings if using PKK
+53596.55    Total earnings if not using PKK 
+
+7512.55     Total (earnings - expenses) if using PKK
+10096.55    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+6259.00     Accumulated PKK 
+
+   --- Month 6, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+53074.05    Total earnings if using PKK
+55762.05    Total earnings if not using PKK 
+
+8074.04     Total (earnings - expenses) if using PKK
+10762.05    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+6479.74     Accumulated PKK 
+
+   --- Month 7, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+55135.54    Total earnings if using PKK
+57927.54    Total earnings if not using PKK 
+
+8635.54     Total (earnings - expenses) if using PKK
+11427.54    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+6700.47     Accumulated PKK 
+
+   --- Month 8, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+57197.04    Total earnings if using PKK
+60093.04    Total earnings if not using PKK 
+
+9197.04     Total (earnings - expenses) if using PKK
+12093.04    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+6921.20     Accumulated PKK 
+
+   --- Month 9, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+59258.54    Total earnings if using PKK
+62258.54    Total earnings if not using PKK 
+
+9758.53     Total (earnings - expenses) if using PKK
+12758.53    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+7141.93     Accumulated PKK 
+
+   --- Month 10, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+61320.03    Total earnings if using PKK
+64424.03    Total earnings if not using PKK 
+
+10320.03    Total (earnings - expenses) if using PKK
+13424.03    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+7362.66     Accumulated PKK 
+
+   --- Month 11, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+63381.53    Total earnings if using PKK
+66589.52    Total earnings if not using PKK 
+
+10881.53    Total (earnings - expenses) if using PKK
+14089.53    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+7583.39     Accumulated PKK 
+
+   --- Month 12, Year: 2 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+65443.02    Total earnings if using PKK
+68755.02    Total earnings if not using PKK 
+
+11443.02    Total (earnings - expenses) if using PKK
+14755.02    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+7804.12     Accumulated PKK 
+
+   --- Month 1, Year: 3 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+67504.52    Total earnings if using PKK
+70920.51    Total earnings if not using PKK 
+
+12004.52    Total (earnings - expenses) if using PKK
+15420.52    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+8445.13     Accumulated PKK 
+
+   --- Month 2, Year: 3 ---
+2600.00     Gross income this month
+2061.50     Net income if using PKK
+2165.50     Net income if not using PKK
+
+69566.01    Total earnings if using PKK
+73086.00    Total earnings if not using PKK 
+
+12566.01    Total (earnings - expenses) if using PKK
+16086.01    Total (earnings - expenses) is not using PKK 
+
+104.00      Employer cost 
+8670.28     Accumulated PKK 
+
+   --- Month 3, Year: 3 ---
+2800.00     Gross income this month
+2223.92     Net income if using PKK
+2335.92     Net income if not using PKK
+
+71789.93    Total earnings if using PKK
+75421.92    Total earnings if not using PKK 
+
+13289.93    Total (earnings - expenses) if using PKK
+16921.93    Total (earnings - expenses) is not using PKK 
+
+112.00      Employer cost 
+8912.75     Accumulated PKK 
+
+   --- Month 4, Year: 3 ---
+2800.00     Gross income this month
+2223.92     Net income if using PKK
+2335.92     Net income if not using PKK
+
+74013.85    Total earnings if using PKK
+77757.84    Total earnings if not using PKK 
+
+14013.85    Total (earnings - expenses) if using PKK
+17757.85    Total (earnings - expenses) is not using PKK 
+
+112.00      Employer cost 
+9155.21     Accumulated PKK 
+
+   --- Month 5, Year: 3 ---
+2800.00     Gross income this month
+2223.92     Net income if using PKK
+2335.92     Net income if not using PKK
+
+76237.77    Total earnings if using PKK
+80093.77    Total earnings if not using PKK 
+
+14737.77    Total (earnings - expenses) if using PKK
+18593.77    Total (earnings - expenses) is not using PKK 
+
+112.00      Employer cost 
+9397.68     Accumulated PKK 
+
+   --- Month 6, Year: 3 ---
+2800.00     Gross income this month
+2223.92     Net income if using PKK
+2335.92     Net income if not using PKK
+
+78461.70    Total earnings if using PKK
+82429.69    Total earnings if not using PKK 
+
+15461.69    Total (earnings - expenses) if using PKK
+19429.69    Total (earnings - expenses) is not using PKK 
+
+112.00      Employer cost 
+9640.14     Accumulated PKK 
+
+   --- Month 7, Year: 3 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+80848.04    Total earnings if using PKK
+84936.03    Total earnings if not using PKK 
+
+16348.03    Total (earnings - expenses) if using PKK
+20436.03    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+9899.92     Accumulated PKK 
+
+   --- Month 8, Year: 3 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+83234.38    Total earnings if using PKK
+87442.38    Total earnings if not using PKK 
+
+17234.37    Total (earnings - expenses) if using PKK
+21442.37    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+10159.71    Accumulated PKK 
+
+   --- Month 9, Year: 3 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+85620.73    Total earnings if using PKK
+89948.72    Total earnings if not using PKK 
+
+18120.71    Total (earnings - expenses) if using PKK
+22448.71    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+10419.49    Accumulated PKK 
+
+   --- Month 10, Year: 3 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+88007.07    Total earnings if using PKK
+92455.06    Total earnings if not using PKK 
+
+19007.06    Total (earnings - expenses) if using PKK
+23455.05    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+10679.27    Accumulated PKK 
+
+   --- Month 11, Year: 3 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+90393.41    Total earnings if using PKK
+94961.41    Total earnings if not using PKK 
+
+19893.40    Total (earnings - expenses) if using PKK
+24461.40    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+10939.06    Accumulated PKK 
+
+   --- Month 12, Year: 3 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+92779.76    Total earnings if using PKK
+97467.75    Total earnings if not using PKK 
+
+20779.74    Total (earnings - expenses) if using PKK
+25467.74    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+11198.84    Accumulated PKK 
+
+   --- Month 1, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+95166.10    Total earnings if using PKK
+99974.09    Total earnings if not using PKK 
+
+21666.08    Total (earnings - expenses) if using PKK
+26474.08    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+11952.78    Accumulated PKK 
+
+   --- Month 2, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+97552.45    Total earnings if using PKK
+102480.44   Total earnings if not using PKK 
+
+22552.42    Total (earnings - expenses) if using PKK
+27480.42    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+12217.76    Accumulated PKK 
+
+   --- Month 3, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+99938.79    Total earnings if using PKK
+104986.78   Total earnings if not using PKK 
+
+23438.77    Total (earnings - expenses) if using PKK
+28486.76    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+12482.74    Accumulated PKK 
+
+   --- Month 4, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+102325.13   Total earnings if using PKK
+107493.12   Total earnings if not using PKK 
+
+24325.11    Total (earnings - expenses) if using PKK
+29493.11    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+12747.72    Accumulated PKK 
+
+   --- Month 5, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+104711.48   Total earnings if using PKK
+109999.47   Total earnings if not using PKK 
+
+25211.45    Total (earnings - expenses) if using PKK
+30499.45    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+13012.70    Accumulated PKK 
+
+   --- Month 6, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+107097.82   Total earnings if using PKK
+112505.81   Total earnings if not using PKK 
+
+26097.79    Total (earnings - expenses) if using PKK
+31505.79    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+13277.67    Accumulated PKK 
+
+   --- Month 7, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+109484.16   Total earnings if using PKK
+115012.16   Total earnings if not using PKK 
+
+26984.13    Total (earnings - expenses) if using PKK
+32512.13    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+13542.65    Accumulated PKK 
+
+   --- Month 8, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+111870.51   Total earnings if using PKK
+117518.50   Total earnings if not using PKK 
+
+27870.47    Total (earnings - expenses) if using PKK
+33518.47    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+13807.63    Accumulated PKK 
+
+   --- Month 9, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+114256.85   Total earnings if using PKK
+120024.84   Total earnings if not using PKK 
+
+28756.82    Total (earnings - expenses) if using PKK
+34524.81    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+14072.61    Accumulated PKK 
+
+   --- Month 10, Year: 4 ---
+3000.00     Gross income this month
+2386.34     Net income if using PKK
+2506.34     Net income if not using PKK
+
+116643.20   Total earnings if using PKK
+122531.19   Total earnings if not using PKK 
+
+29643.16    Total (earnings - expenses) if using PKK
+35531.15    Total (earnings - expenses) is not using PKK 
+
+120.00      Employer cost 
+14337.59    Accumulated PKK 
+
+   --- Month 11, Year: 4 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+119191.96   Total earnings if using PKK
+125207.95   Total earnings if not using PKK 
+
+30691.92    Total (earnings - expenses) if using PKK
+36707.92    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+14620.24    Accumulated PKK 
+
+   --- Month 12, Year: 4 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+121740.73   Total earnings if using PKK
+127884.72   Total earnings if not using PKK 
+
+31740.69    Total (earnings - expenses) if using PKK
+37884.68    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+14902.88    Accumulated PKK 
+
+   --- Month 1, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+124289.49   Total earnings if using PKK
+130561.48   Total earnings if not using PKK 
+
+32789.45    Total (earnings - expenses) if using PKK
+39061.45    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+15759.51    Accumulated PKK 
+
+   --- Month 2, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+126838.26   Total earnings if using PKK
+133238.25   Total earnings if not using PKK 
+
+33838.21    Total (earnings - expenses) if using PKK
+40238.21    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+16047.81    Accumulated PKK 
+
+   --- Month 3, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+129387.02   Total earnings if using PKK
+135915.02   Total earnings if not using PKK 
+
+34886.98    Total (earnings - expenses) if using PKK
+41414.98    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+16336.11    Accumulated PKK 
+
+   --- Month 4, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+131935.78   Total earnings if using PKK
+138591.78   Total earnings if not using PKK 
+
+35935.75    Total (earnings - expenses) if using PKK
+42591.75    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+16624.41    Accumulated PKK 
+
+   --- Month 5, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+134484.55   Total earnings if using PKK
+141268.55   Total earnings if not using PKK 
+
+36984.51    Total (earnings - expenses) if using PKK
+43768.51    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+16912.71    Accumulated PKK 
+
+   --- Month 6, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+137033.31   Total earnings if using PKK
+143945.31   Total earnings if not using PKK 
+
+38033.28    Total (earnings - expenses) if using PKK
+44945.28    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+17201.00    Accumulated PKK 
+
+   --- Month 7, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+139582.08   Total earnings if using PKK
+146622.08   Total earnings if not using PKK 
+
+39082.04    Total (earnings - expenses) if using PKK
+46122.04    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+17489.30    Accumulated PKK 
+
+   --- Month 8, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+142130.84   Total earnings if using PKK
+149298.84   Total earnings if not using PKK 
+
+40130.81    Total (earnings - expenses) if using PKK
+47298.81    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+17777.60    Accumulated PKK 
+
+   --- Month 9, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+144679.61   Total earnings if using PKK
+151975.61   Total earnings if not using PKK 
+
+41179.57    Total (earnings - expenses) if using PKK
+48475.57    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+18065.89    Accumulated PKK 
+
+   --- Month 10, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+147228.38   Total earnings if using PKK
+154652.38   Total earnings if not using PKK 
+
+42228.34    Total (earnings - expenses) if using PKK
+49652.34    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+18354.19    Accumulated PKK 
+
+   --- Month 11, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+149777.14   Total earnings if using PKK
+157329.14   Total earnings if not using PKK 
+
+43277.11    Total (earnings - expenses) if using PKK
+50829.11    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+18642.49    Accumulated PKK 
+
+   --- Month 12, Year: 5 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+152325.91   Total earnings if using PKK
+160005.91   Total earnings if not using PKK 
+
+44325.87    Total (earnings - expenses) if using PKK
+52005.87    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+18930.79    Accumulated PKK 
+
+   --- Month 1, Year: 6 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+154874.67   Total earnings if using PKK
+162682.67   Total earnings if not using PKK 
+
+45374.64    Total (earnings - expenses) if using PKK
+53182.64    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+19879.15    Accumulated PKK 
+
+   --- Month 2, Year: 6 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+157423.44   Total earnings if using PKK
+165359.44   Total earnings if not using PKK 
+
+46423.40    Total (earnings - expenses) if using PKK
+54359.40    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+20173.21    Accumulated PKK 
+
+   --- Month 3, Year: 6 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+159972.20   Total earnings if using PKK
+168036.20   Total earnings if not using PKK 
+
+47472.17    Total (earnings - expenses) if using PKK
+55536.17    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+20467.28    Accumulated PKK 
+
+   --- Month 4, Year: 6 ---
+3200.00     Gross income this month
+2548.76     Net income if using PKK
+2676.76     Net income if not using PKK
+
+162520.97   Total earnings if using PKK
+170712.97   Total earnings if not using PKK 
+
+48520.93    Total (earnings - expenses) if using PKK
+56712.93    Total (earnings - expenses) is not using PKK 
+
+128.00      Employer cost 
+20761.34    Accumulated PKK 
+
+   --- Month 5, Year: 6 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+165232.16   Total earnings if using PKK
+173560.16   Total earnings if not using PKK 
+
+49732.12    Total (earnings - expenses) if using PKK
+58060.12    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+21073.79    Accumulated PKK 
+
+   --- Month 6, Year: 6 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+167943.34   Total earnings if using PKK
+176407.34   Total earnings if not using PKK 
+
+50943.31    Total (earnings - expenses) if using PKK
+59407.31    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+21386.23    Accumulated PKK 
+
+   --- Month 7, Year: 6 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+170654.53   Total earnings if using PKK
+179254.53   Total earnings if not using PKK 
+
+52154.50    Total (earnings - expenses) if using PKK
+60754.50    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+21698.67    Accumulated PKK 
+
+   --- Month 8, Year: 6 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+173365.72   Total earnings if using PKK
+182101.72   Total earnings if not using PKK 
+
+53365.68    Total (earnings - expenses) if using PKK
+62101.68    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+22011.11    Accumulated PKK 
+
+   --- Month 9, Year: 6 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+176076.91   Total earnings if using PKK
+184948.91   Total earnings if not using PKK 
+
+54576.87    Total (earnings - expenses) if using PKK
+63448.87    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+22323.55    Accumulated PKK 
+
+   --- Month 10, Year: 6 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+178788.09   Total earnings if using PKK
+187796.09   Total earnings if not using PKK 
+
+55788.06    Total (earnings - expenses) if using PKK
+64796.06    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+22636.00    Accumulated PKK 
+
+   --- Month 11, Year: 6 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+181499.28   Total earnings if using PKK
+190643.28   Total earnings if not using PKK 
+
+56999.25    Total (earnings - expenses) if using PKK
+66143.24    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+22948.44    Accumulated PKK 
+
+   --- Month 12, Year: 6 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+184210.47   Total earnings if using PKK
+193490.47   Total earnings if not using PKK 
+
+58210.43    Total (earnings - expenses) if using PKK
+67490.43    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+23260.88    Accumulated PKK 
+
+   --- Month 1, Year: 7 ---
+3400.00     Gross income this month
+2711.19     Net income if using PKK
+2847.19     Net income if not using PKK
+
+186921.66   Total earnings if using PKK
+196337.66   Total earnings if not using PKK 
+
+59421.62    Total (earnings - expenses) if using PKK
+68837.62    Total (earnings - expenses) is not using PKK 
+
+136.00      Employer cost 
+24325.99    Accumulated PKK 
+
+   --- Month 2, Year: 7 ---
+3600.00     Gross income this month
+2873.61     Net income if using PKK
+3017.61     Net income if not using PKK
+
+189795.27   Total earnings if using PKK
+199355.27   Total earnings if not using PKK 
+
+60795.23    Total (earnings - expenses) if using PKK
+70355.23    Total (earnings - expenses) is not using PKK 
+
+144.00      Employer cost 
+24663.43    Accumulated PKK 
+
+   --- Month 3, Year: 7 ---
+3600.00     Gross income this month
+2873.61     Net income if using PKK
+3017.61     Net income if not using PKK
+
+192668.88   Total earnings if using PKK
+202372.88   Total earnings if not using PKK 
+
+62168.84    Total (earnings - expenses) if using PKK
+71872.84    Total (earnings - expenses) is not using PKK 
+
+144.00      Employer cost 
+25000.86    Accumulated PKK 
+
+   --- Month 4, Year: 7 ---
+3600.00     Gross income this month
+2873.61     Net income if using PKK
+3017.61     Net income if not using PKK
+
+195542.48   Total earnings if using PKK
+205390.48   Total earnings if not using PKK 
+
+63542.45    Total (earnings - expenses) if using PKK
+73390.45    Total (earnings - expenses) is not using PKK 
+
+144.00      Employer cost 
+25338.30    Accumulated PKK 
+
+   --- Month 5, Year: 7 ---
+3600.00     Gross income this month
+2873.61     Net income if using PKK
+3017.61     Net income if not using PKK
+
+198416.09   Total earnings if using PKK
+208408.09   Total earnings if not using PKK 
+
+64916.06    Total (earnings - expenses) if using PKK
+74908.05    Total (earnings - expenses) is not using PKK 
+
+144.00      Employer cost 
+25675.74    Accumulated PKK 
+
+   --- Month 6, Year: 7 ---
+3600.00     Gross income this month
+2873.61     Net income if using PKK
+3017.61     Net income if not using PKK
+
+201289.70   Total earnings if using PKK
+211425.70   Total earnings if not using PKK 
+
+66289.67    Total (earnings - expenses) if using PKK
+76425.66    Total (earnings - expenses) is not using PKK 
+
+144.00      Employer cost 
+26013.18    Accumulated PKK 
+
+   --- Month 7, Year: 7 ---
+3600.00     Gross income this month
+2873.61     Net income if using PKK
+3017.61     Net income if not using PKK
+
+204163.31   Total earnings if using PKK
+214443.31   Total earnings if not using PKK 
+
+67663.28    Total (earnings - expenses) if using PKK
+77943.27    Total (earnings - expenses) is not using PKK 
+
+144.00      Employer cost 
+26350.62    Accumulated PKK 
+
+   --- Month 8, Year: 7 ---
+3600.00     Gross income this month
+2873.61     Net income if using PKK
+3017.61     Net income if not using PKK
+
+207036.92   Total earnings if using PKK
+217460.92   Total earnings if not using PKK 
+
+69036.89    Total (earnings - expenses) if using PKK
+79460.88    Total (earnings - expenses) is not using PKK 
+
+144.00      Employer cost 
+26688.05    Accumulated PKK 
+
+   --- Month 9, Year: 7 ---
+3800.00     Gross income this month
+3036.03     Net income if using PKK
+3188.03     Net income if not using PKK
+
+210072.95   Total earnings if using PKK
+220648.95   Total earnings if not using PKK 
+
+70572.92    Total (earnings - expenses) if using PKK
+81148.91    Total (earnings - expenses) is not using PKK 
+
+152.00      Employer cost 
+27044.24    Accumulated PKK 
+
+   --- Month 10, Year: 7 ---
+3800.00     Gross income this month
+3036.03     Net income if using PKK
+3188.03     Net income if not using PKK
+
+213108.98   Total earnings if using PKK
+223836.98   Total earnings if not using PKK 
+
+72108.95    Total (earnings - expenses) if using PKK
+82836.95    Total (earnings - expenses) is not using PKK 
+
+152.00      Employer cost 
+27400.42    Accumulated PKK 
+
+   --- Month 11, Year: 7 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+216307.44   Total earnings if using PKK
+227195.44   Total earnings if not using PKK 
+
+73807.41    Total (earnings - expenses) if using PKK
+84695.40    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+27775.35    Accumulated PKK 
+
+   --- Month 12, Year: 7 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+219505.89   Total earnings if using PKK
+230553.89   Total earnings if not using PKK 
+
+75505.86    Total (earnings - expenses) if using PKK
+86553.85    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+28150.28    Accumulated PKK 
+
+   --- Month 1, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+222704.34   Total earnings if using PKK
+233912.34   Total earnings if not using PKK 
+
+77204.31    Total (earnings - expenses) if using PKK
+88412.30    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+29382.54    Accumulated PKK 
+
+   --- Month 2, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+225902.80   Total earnings if using PKK
+237270.80   Total earnings if not using PKK 
+
+78902.77    Total (earnings - expenses) if using PKK
+90270.76    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+29764.97    Accumulated PKK 
+
+   --- Month 3, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+229101.25   Total earnings if using PKK
+240629.25   Total earnings if not using PKK 
+
+80601.22    Total (earnings - expenses) if using PKK
+92129.21    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+30147.40    Accumulated PKK 
+
+   --- Month 4, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+232299.70   Total earnings if using PKK
+243987.70   Total earnings if not using PKK 
+
+82299.67    Total (earnings - expenses) if using PKK
+93987.66    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+30529.83    Accumulated PKK 
+
+   --- Month 5, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+235498.16   Total earnings if using PKK
+247346.16   Total earnings if not using PKK 
+
+83998.12    Total (earnings - expenses) if using PKK
+95846.12    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+30912.26    Accumulated PKK 
+
+   --- Month 6, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+238696.61   Total earnings if using PKK
+250704.61   Total earnings if not using PKK 
+
+85696.58    Total (earnings - expenses) if using PKK
+97704.57    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+31294.69    Accumulated PKK 
+
+   --- Month 7, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+241895.06   Total earnings if using PKK
+254063.06   Total earnings if not using PKK 
+
+87395.03    Total (earnings - expenses) if using PKK
+99563.02    Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+31677.12    Accumulated PKK 
+
+   --- Month 8, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+245093.52   Total earnings if using PKK
+257421.52   Total earnings if not using PKK 
+
+89093.48    Total (earnings - expenses) if using PKK
+101421.48   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+32059.55    Accumulated PKK 
+
+   --- Month 9, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+248291.97   Total earnings if using PKK
+260779.97   Total earnings if not using PKK 
+
+90791.94    Total (earnings - expenses) if using PKK
+103279.93   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+32441.98    Accumulated PKK 
+
+   --- Month 10, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+251490.42   Total earnings if using PKK
+264138.44   Total earnings if not using PKK 
+
+92490.39    Total (earnings - expenses) if using PKK
+105138.38   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+32824.41    Accumulated PKK 
+
+   --- Month 11, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+254688.88   Total earnings if using PKK
+267496.91   Total earnings if not using PKK 
+
+94188.84    Total (earnings - expenses) if using PKK
+106996.84   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+33206.84    Accumulated PKK 
+
+   --- Month 12, Year: 8 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+257887.33   Total earnings if using PKK
+270855.38   Total earnings if not using PKK 
+
+95887.30    Total (earnings - expenses) if using PKK
+108855.29   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+33589.27    Accumulated PKK 
+
+   --- Month 1, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+261085.78   Total earnings if using PKK
+274213.84   Total earnings if not using PKK 
+
+97585.75    Total (earnings - expenses) if using PKK
+110713.74   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+34943.69    Accumulated PKK 
+
+   --- Month 2, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+264284.25   Total earnings if using PKK
+277572.31   Total earnings if not using PKK 
+
+99284.20    Total (earnings - expenses) if using PKK
+112572.20   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+35333.77    Accumulated PKK 
+
+   --- Month 3, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+267482.72   Total earnings if using PKK
+280930.78   Total earnings if not using PKK 
+
+100982.66   Total (earnings - expenses) if using PKK
+114430.65   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+35723.84    Accumulated PKK 
+
+   --- Month 4, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+270681.19   Total earnings if using PKK
+284289.25   Total earnings if not using PKK 
+
+102681.11   Total (earnings - expenses) if using PKK
+116289.10   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+36113.92    Accumulated PKK 
+
+   --- Month 5, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+273879.66   Total earnings if using PKK
+287647.72   Total earnings if not using PKK 
+
+104379.56   Total (earnings - expenses) if using PKK
+118147.55   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+36504.00    Accumulated PKK 
+
+   --- Month 6, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+277078.12   Total earnings if using PKK
+291006.19   Total earnings if not using PKK 
+
+106078.02   Total (earnings - expenses) if using PKK
+120006.01   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+36894.08    Accumulated PKK 
+
+   --- Month 7, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+280276.59   Total earnings if using PKK
+294364.66   Total earnings if not using PKK 
+
+107776.47   Total (earnings - expenses) if using PKK
+121864.46   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+37284.16    Accumulated PKK 
+
+   --- Month 8, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+283475.06   Total earnings if using PKK
+297723.12   Total earnings if not using PKK 
+
+109474.92   Total (earnings - expenses) if using PKK
+123722.91   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+37674.23    Accumulated PKK 
+
+   --- Month 9, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+286673.53   Total earnings if using PKK
+301081.59   Total earnings if not using PKK 
+
+111173.38   Total (earnings - expenses) if using PKK
+125581.37   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+38064.31    Accumulated PKK 
+
+   --- Month 10, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+289872.00   Total earnings if using PKK
+304440.06   Total earnings if not using PKK 
+
+112871.83   Total (earnings - expenses) if using PKK
+127439.82   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+38454.39    Accumulated PKK 
+
+   --- Month 11, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+293070.47   Total earnings if using PKK
+307798.53   Total earnings if not using PKK 
+
+114570.28   Total (earnings - expenses) if using PKK
+129298.27   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+38844.47    Accumulated PKK 
+
+   --- Month 12, Year: 9 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+296268.94   Total earnings if using PKK
+311157.00   Total earnings if not using PKK 
+
+116268.73   Total (earnings - expenses) if using PKK
+131156.73   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+39234.55    Accumulated PKK 
+
+   --- Month 1, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+299467.41   Total earnings if using PKK
+314515.47   Total earnings if not using PKK 
+
+117967.19   Total (earnings - expenses) if using PKK
+133015.19   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+40715.53    Accumulated PKK 
+
+   --- Month 2, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+302665.88   Total earnings if using PKK
+317873.94   Total earnings if not using PKK 
+
+119665.64   Total (earnings - expenses) if using PKK
+134873.64   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+41113.41    Accumulated PKK 
+
+   --- Month 3, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+305864.34   Total earnings if using PKK
+321232.41   Total earnings if not using PKK 
+
+121364.09   Total (earnings - expenses) if using PKK
+136732.09   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+41511.29    Accumulated PKK 
+
+   --- Month 4, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+309062.81   Total earnings if using PKK
+324590.88   Total earnings if not using PKK 
+
+123062.55   Total (earnings - expenses) if using PKK
+138590.55   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+41909.16    Accumulated PKK 
+
+   --- Month 5, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+312261.28   Total earnings if using PKK
+327949.34   Total earnings if not using PKK 
+
+124761.00   Total (earnings - expenses) if using PKK
+140449.00   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+42307.05    Accumulated PKK 
+
+   --- Month 6, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+315459.75   Total earnings if using PKK
+331307.81   Total earnings if not using PKK 
+
+126459.45   Total (earnings - expenses) if using PKK
+142307.45   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+42704.93    Accumulated PKK 
+
+   --- Month 7, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+318658.22   Total earnings if using PKK
+334666.28   Total earnings if not using PKK 
+
+128157.91   Total (earnings - expenses) if using PKK
+144165.91   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+43102.80    Accumulated PKK 
+
+   --- Month 8, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+321856.69   Total earnings if using PKK
+338024.75   Total earnings if not using PKK 
+
+129856.36   Total (earnings - expenses) if using PKK
+146024.36   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+43500.68    Accumulated PKK 
+
+   --- Month 9, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+325055.16   Total earnings if using PKK
+341383.22   Total earnings if not using PKK 
+
+131554.81   Total (earnings - expenses) if using PKK
+147882.81   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+43898.56    Accumulated PKK 
+
+   --- Month 10, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+328253.62   Total earnings if using PKK
+344741.69   Total earnings if not using PKK 
+
+133253.27   Total (earnings - expenses) if using PKK
+149741.27   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+44296.45    Accumulated PKK 
+
+   --- Month 11, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+331452.09   Total earnings if using PKK
+348100.16   Total earnings if not using PKK 
+
+134951.72   Total (earnings - expenses) if using PKK
+151599.72   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+44694.32    Accumulated PKK 
+
+   --- Month 12, Year: 10 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+334650.56   Total earnings if using PKK
+351458.62   Total earnings if not using PKK 
+
+136650.17   Total (earnings - expenses) if using PKK
+153458.17   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+45092.20    Accumulated PKK 
+
+   --- Month 1, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+337849.03   Total earnings if using PKK
+354817.09   Total earnings if not using PKK 
+
+138348.62   Total (earnings - expenses) if using PKK
+155316.62   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+46704.26    Accumulated PKK 
+
+   --- Month 2, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+341047.50   Total earnings if using PKK
+358175.56   Total earnings if not using PKK 
+
+140047.08   Total (earnings - expenses) if using PKK
+157175.08   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+47110.10    Accumulated PKK 
+
+   --- Month 3, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+344245.97   Total earnings if using PKK
+361534.03   Total earnings if not using PKK 
+
+141745.53   Total (earnings - expenses) if using PKK
+159033.53   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+47515.94    Accumulated PKK 
+
+   --- Month 4, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+347444.44   Total earnings if using PKK
+364892.50   Total earnings if not using PKK 
+
+143443.98   Total (earnings - expenses) if using PKK
+160891.98   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+47921.77    Accumulated PKK 
+
+   --- Month 5, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+350642.91   Total earnings if using PKK
+368250.97   Total earnings if not using PKK 
+
+145142.44   Total (earnings - expenses) if using PKK
+162750.44   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+48327.61    Accumulated PKK 
+
+   --- Month 6, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+353841.38   Total earnings if using PKK
+371609.44   Total earnings if not using PKK 
+
+146840.89   Total (earnings - expenses) if using PKK
+164608.89   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+48733.45    Accumulated PKK 
+
+   --- Month 7, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+357039.84   Total earnings if using PKK
+374967.91   Total earnings if not using PKK 
+
+148539.34   Total (earnings - expenses) if using PKK
+166467.34   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+49139.29    Accumulated PKK 
+
+   --- Month 8, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+360238.31   Total earnings if using PKK
+378326.38   Total earnings if not using PKK 
+
+150237.80   Total (earnings - expenses) if using PKK
+168325.80   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+49545.12    Accumulated PKK 
+
+   --- Month 9, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+363436.78   Total earnings if using PKK
+381684.84   Total earnings if not using PKK 
+
+151936.25   Total (earnings - expenses) if using PKK
+170184.25   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+49950.96    Accumulated PKK 
+
+   --- Month 10, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+366635.25   Total earnings if using PKK
+385043.31   Total earnings if not using PKK 
+
+153634.70   Total (earnings - expenses) if using PKK
+172042.70   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+50356.80    Accumulated PKK 
+
+   --- Month 11, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+369833.72   Total earnings if using PKK
+388401.78   Total earnings if not using PKK 
+
+155333.16   Total (earnings - expenses) if using PKK
+173901.16   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+50762.63    Accumulated PKK 
+
+   --- Month 12, Year: 11 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+373032.19   Total earnings if using PKK
+391760.25   Total earnings if not using PKK 
+
+157031.61   Total (earnings - expenses) if using PKK
+175759.61   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+51168.47    Accumulated PKK 
+
+   --- Month 1, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+376230.66   Total earnings if using PKK
+395118.72   Total earnings if not using PKK 
+
+158730.06   Total (earnings - expenses) if using PKK
+177618.06   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+52916.26    Accumulated PKK 
+
+   --- Month 2, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+379429.12   Total earnings if using PKK
+398477.19   Total earnings if not using PKK 
+
+160428.52   Total (earnings - expenses) if using PKK
+179476.52   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+53330.21    Accumulated PKK 
+
+   --- Month 3, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+382627.59   Total earnings if using PKK
+401835.66   Total earnings if not using PKK 
+
+162126.97   Total (earnings - expenses) if using PKK
+181334.97   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+53744.17    Accumulated PKK 
+
+   --- Month 4, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+385826.06   Total earnings if using PKK
+405194.12   Total earnings if not using PKK 
+
+163825.42   Total (earnings - expenses) if using PKK
+183193.42   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+54158.12    Accumulated PKK 
+
+   --- Month 5, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+389024.53   Total earnings if using PKK
+408552.59   Total earnings if not using PKK 
+
+165523.88   Total (earnings - expenses) if using PKK
+185051.88   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+54572.07    Accumulated PKK 
+
+   --- Month 6, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+392223.00   Total earnings if using PKK
+411911.06   Total earnings if not using PKK 
+
+167222.33   Total (earnings - expenses) if using PKK
+186910.33   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+54986.03    Accumulated PKK 
+
+   --- Month 7, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+395421.47   Total earnings if using PKK
+415269.53   Total earnings if not using PKK 
+
+168920.78   Total (earnings - expenses) if using PKK
+188768.78   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+55399.98    Accumulated PKK 
+
+   --- Month 8, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+398619.94   Total earnings if using PKK
+418628.00   Total earnings if not using PKK 
+
+170619.23   Total (earnings - expenses) if using PKK
+190627.23   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+55813.94    Accumulated PKK 
+
+   --- Month 9, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+401818.41   Total earnings if using PKK
+421986.47   Total earnings if not using PKK 
+
+172317.69   Total (earnings - expenses) if using PKK
+192485.69   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+56227.89    Accumulated PKK 
+
+   --- Month 10, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+405016.88   Total earnings if using PKK
+425344.94   Total earnings if not using PKK 
+
+174016.14   Total (earnings - expenses) if using PKK
+194344.14   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+56641.85    Accumulated PKK 
+
+   --- Month 11, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+408215.34   Total earnings if using PKK
+428703.41   Total earnings if not using PKK 
+
+175714.59   Total (earnings - expenses) if using PKK
+196202.59   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+57055.80    Accumulated PKK 
+
+   --- Month 12, Year: 12 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+411413.81   Total earnings if using PKK
+432061.88   Total earnings if not using PKK 
+
+177413.05   Total (earnings - expenses) if using PKK
+198061.05   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+57469.75    Accumulated PKK 
+
+   --- Month 1, Year: 13 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+414612.28   Total earnings if using PKK
+435420.34   Total earnings if not using PKK 
+
+179111.50   Total (earnings - expenses) if using PKK
+199919.50   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+59358.05    Accumulated PKK 
+
+   --- Month 2, Year: 13 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+417810.75   Total earnings if using PKK
+438778.81   Total earnings if not using PKK 
+
+180809.95   Total (earnings - expenses) if using PKK
+201777.95   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+59780.29    Accumulated PKK 
+
+   --- Month 3, Year: 13 ---
+4000.00     Gross income this month
+3198.46     Net income if using PKK
+3358.46     Net income if not using PKK
+
+421009.22   Total earnings if using PKK
+442137.28   Total earnings if not using PKK 
+
+182508.41   Total (earnings - expenses) if using PKK
+203636.41   Total (earnings - expenses) is not using PKK 
+
+160.00      Employer cost 
+60202.52    Accumulated PKK 
+
+   --- Month 4, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+424370.09   Total earnings if using PKK
+445666.16   Total earnings if not using PKK 
+
+184369.28   Total (earnings - expenses) if using PKK
+205665.28   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+60645.87    Accumulated PKK 
+
+   --- Month 5, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+427730.97   Total earnings if using PKK
+449195.03   Total earnings if not using PKK 
+
+186230.16   Total (earnings - expenses) if using PKK
+207694.16   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+61089.21    Accumulated PKK 
+
+   --- Month 6, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+431091.84   Total earnings if using PKK
+452723.91   Total earnings if not using PKK 
+
+188091.03   Total (earnings - expenses) if using PKK
+209723.03   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+61532.55    Accumulated PKK 
+
+   --- Month 7, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+434452.72   Total earnings if using PKK
+456252.78   Total earnings if not using PKK 
+
+189951.91   Total (earnings - expenses) if using PKK
+211751.91   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+61975.90    Accumulated PKK 
+
+   --- Month 8, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+437813.59   Total earnings if using PKK
+459781.66   Total earnings if not using PKK 
+
+191812.78   Total (earnings - expenses) if using PKK
+213780.78   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+62419.25    Accumulated PKK 
+
+   --- Month 9, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+441174.47   Total earnings if using PKK
+463310.53   Total earnings if not using PKK 
+
+193673.66   Total (earnings - expenses) if using PKK
+215809.66   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+62862.59    Accumulated PKK 
+
+   --- Month 10, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+444535.34   Total earnings if using PKK
+466839.41   Total earnings if not using PKK 
+
+195534.53   Total (earnings - expenses) if using PKK
+217838.53   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+63305.93    Accumulated PKK 
+
+   --- Month 11, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+447896.22   Total earnings if using PKK
+470368.28   Total earnings if not using PKK 
+
+197395.41   Total (earnings - expenses) if using PKK
+219867.41   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+63749.28    Accumulated PKK 
+
+   --- Month 12, Year: 13 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+451257.09   Total earnings if using PKK
+473897.16   Total earnings if not using PKK 
+
+199256.28   Total (earnings - expenses) if using PKK
+221896.28   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+64192.62    Accumulated PKK 
+
+   --- Month 1, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+454617.97   Total earnings if using PKK
+477426.03   Total earnings if not using PKK 
+
+201117.16   Total (earnings - expenses) if using PKK
+223925.16   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+66251.70    Accumulated PKK 
+
+   --- Month 2, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+457978.84   Total earnings if using PKK
+480954.91   Total earnings if not using PKK 
+
+202978.03   Total (earnings - expenses) if using PKK
+225954.03   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+66703.91    Accumulated PKK 
+
+   --- Month 3, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+461339.72   Total earnings if using PKK
+484483.78   Total earnings if not using PKK 
+
+204838.91   Total (earnings - expenses) if using PKK
+227982.91   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+67156.12    Accumulated PKK 
+
+   --- Month 4, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+464700.59   Total earnings if using PKK
+488012.66   Total earnings if not using PKK 
+
+206699.78   Total (earnings - expenses) if using PKK
+230011.78   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+67608.33    Accumulated PKK 
+
+   --- Month 5, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+468061.47   Total earnings if using PKK
+491541.53   Total earnings if not using PKK 
+
+208560.66   Total (earnings - expenses) if using PKK
+232040.66   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+68060.54    Accumulated PKK 
+
+   --- Month 6, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+471422.34   Total earnings if using PKK
+495070.41   Total earnings if not using PKK 
+
+210421.53   Total (earnings - expenses) if using PKK
+234069.53   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+68512.76    Accumulated PKK 
+
+   --- Month 7, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+474783.22   Total earnings if using PKK
+498599.28   Total earnings if not using PKK 
+
+212282.41   Total (earnings - expenses) if using PKK
+236098.41   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+68964.97    Accumulated PKK 
+
+   --- Month 8, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+478144.09   Total earnings if using PKK
+502128.16   Total earnings if not using PKK 
+
+214143.28   Total (earnings - expenses) if using PKK
+238127.28   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+69417.18    Accumulated PKK 
+
+   --- Month 9, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+481504.97   Total earnings if using PKK
+505657.03   Total earnings if not using PKK 
+
+216004.16   Total (earnings - expenses) if using PKK
+240156.16   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+69869.39    Accumulated PKK 
+
+   --- Month 10, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+484865.84   Total earnings if using PKK
+509185.91   Total earnings if not using PKK 
+
+217865.03   Total (earnings - expenses) if using PKK
+242185.03   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+70321.60    Accumulated PKK 
+
+   --- Month 11, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+488226.72   Total earnings if using PKK
+512714.78   Total earnings if not using PKK 
+
+219725.91   Total (earnings - expenses) if using PKK
+244213.91   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+70773.81    Accumulated PKK 
+
+   --- Month 12, Year: 14 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+491587.59   Total earnings if using PKK
+516243.66   Total earnings if not using PKK 
+
+221586.78   Total (earnings - expenses) if using PKK
+246242.78   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+71226.02    Accumulated PKK 
+
+   --- Month 1, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+494948.47   Total earnings if using PKK
+519772.53   Total earnings if not using PKK 
+
+223447.66   Total (earnings - expenses) if using PKK
+248271.66   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+73441.27    Accumulated PKK 
+
+   --- Month 2, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+498309.34   Total earnings if using PKK
+523301.41   Total earnings if not using PKK 
+
+225308.53   Total (earnings - expenses) if using PKK
+250300.53   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+73902.52    Accumulated PKK 
+
+   --- Month 3, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+501670.22   Total earnings if using PKK
+526830.31   Total earnings if not using PKK 
+
+227169.41   Total (earnings - expenses) if using PKK
+252329.41   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+74363.78    Accumulated PKK 
+
+   --- Month 4, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+505031.09   Total earnings if using PKK
+530359.19   Total earnings if not using PKK 
+
+229030.28   Total (earnings - expenses) if using PKK
+254358.28   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+74825.04    Accumulated PKK 
+
+   --- Month 5, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+508391.97   Total earnings if using PKK
+533888.06   Total earnings if not using PKK 
+
+230891.16   Total (earnings - expenses) if using PKK
+256387.16   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+75286.29    Accumulated PKK 
+
+   --- Month 6, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+511752.84   Total earnings if using PKK
+537416.94   Total earnings if not using PKK 
+
+232752.03   Total (earnings - expenses) if using PKK
+258416.03   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+75747.55    Accumulated PKK 
+
+   --- Month 7, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+515113.72   Total earnings if using PKK
+540945.81   Total earnings if not using PKK 
+
+234612.91   Total (earnings - expenses) if using PKK
+260444.91   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+76208.80    Accumulated PKK 
+
+   --- Month 8, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+518474.59   Total earnings if using PKK
+544474.69   Total earnings if not using PKK 
+
+236473.78   Total (earnings - expenses) if using PKK
+262473.78   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+76670.06    Accumulated PKK 
+
+   --- Month 9, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+521835.47   Total earnings if using PKK
+548003.56   Total earnings if not using PKK 
+
+238334.66   Total (earnings - expenses) if using PKK
+264502.66   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+77131.31    Accumulated PKK 
+
+   --- Month 10, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+525196.38   Total earnings if using PKK
+551532.44   Total earnings if not using PKK 
+
+240195.53   Total (earnings - expenses) if using PKK
+266531.53   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+77592.57    Accumulated PKK 
+
+   --- Month 11, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+528557.25   Total earnings if using PKK
+555061.31   Total earnings if not using PKK 
+
+242056.41   Total (earnings - expenses) if using PKK
+268560.41   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+78053.83    Accumulated PKK 
+
+   --- Month 12, Year: 15 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+531918.12   Total earnings if using PKK
+558590.19   Total earnings if not using PKK 
+
+243917.28   Total (earnings - expenses) if using PKK
+270589.28   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+78515.09    Accumulated PKK 
+
+   --- Month 1, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+535279.00   Total earnings if using PKK
+562119.06   Total earnings if not using PKK 
+
+245778.16   Total (earnings - expenses) if using PKK
+272618.16   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+80891.92    Accumulated PKK 
+
+   --- Month 2, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+538639.88   Total earnings if using PKK
+565647.94   Total earnings if not using PKK 
+
+247639.03   Total (earnings - expenses) if using PKK
+274647.03   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+81362.40    Accumulated PKK 
+
+   --- Month 3, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+542000.75   Total earnings if using PKK
+569176.81   Total earnings if not using PKK 
+
+249499.91   Total (earnings - expenses) if using PKK
+276675.91   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+81832.88    Accumulated PKK 
+
+   --- Month 4, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+545361.62   Total earnings if using PKK
+572705.69   Total earnings if not using PKK 
+
+251360.78   Total (earnings - expenses) if using PKK
+278704.78   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+82303.37    Accumulated PKK 
+
+   --- Month 5, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+548722.50   Total earnings if using PKK
+576234.56   Total earnings if not using PKK 
+
+253221.66   Total (earnings - expenses) if using PKK
+280733.66   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+82773.84    Accumulated PKK 
+
+   --- Month 6, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+552083.38   Total earnings if using PKK
+579763.44   Total earnings if not using PKK 
+
+255082.53   Total (earnings - expenses) if using PKK
+282762.53   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+83244.33    Accumulated PKK 
+
+   --- Month 7, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+555444.25   Total earnings if using PKK
+583292.31   Total earnings if not using PKK 
+
+256943.41   Total (earnings - expenses) if using PKK
+284791.41   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+83714.80    Accumulated PKK 
+
+   --- Month 8, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+558805.12   Total earnings if using PKK
+586821.19   Total earnings if not using PKK 
+
+258804.28   Total (earnings - expenses) if using PKK
+286820.28   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+84185.29    Accumulated PKK 
+
+   --- Month 9, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+562166.00   Total earnings if using PKK
+590350.06   Total earnings if not using PKK 
+
+260665.16   Total (earnings - expenses) if using PKK
+288849.16   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+84655.77    Accumulated PKK 
+
+   --- Month 10, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+565526.88   Total earnings if using PKK
+593878.94   Total earnings if not using PKK 
+
+262526.03   Total (earnings - expenses) if using PKK
+290878.03   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+85126.25    Accumulated PKK 
+
+   --- Month 11, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+568887.75   Total earnings if using PKK
+597407.81   Total earnings if not using PKK 
+
+264386.91   Total (earnings - expenses) if using PKK
+292906.91   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+85596.73    Accumulated PKK 
+
+   --- Month 12, Year: 16 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+572248.62   Total earnings if using PKK
+600936.69   Total earnings if not using PKK 
+
+266247.78   Total (earnings - expenses) if using PKK
+294935.78   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+86067.21    Accumulated PKK 
+
+   --- Month 1, Year: 17 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+575609.50   Total earnings if using PKK
+604465.56   Total earnings if not using PKK 
+
+268108.66   Total (earnings - expenses) if using PKK
+296964.66   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+88611.23    Accumulated PKK 
+
+   --- Month 2, Year: 17 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+578970.38   Total earnings if using PKK
+607994.44   Total earnings if not using PKK 
+
+269969.53   Total (earnings - expenses) if using PKK
+298993.53   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+89091.12    Accumulated PKK 
+
+   --- Month 3, Year: 17 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+582331.25   Total earnings if using PKK
+611523.31   Total earnings if not using PKK 
+
+271830.41   Total (earnings - expenses) if using PKK
+301022.41   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+89571.01    Accumulated PKK 
+
+   --- Month 4, Year: 17 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+585692.12   Total earnings if using PKK
+615052.19   Total earnings if not using PKK 
+
+273691.28   Total (earnings - expenses) if using PKK
+303051.28   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+90050.90    Accumulated PKK 
+
+   --- Month 5, Year: 17 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+589053.00   Total earnings if using PKK
+618581.06   Total earnings if not using PKK 
+
+275552.16   Total (earnings - expenses) if using PKK
+305080.16   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+90530.79    Accumulated PKK 
+
+   --- Month 6, Year: 17 ---
+4200.00     Gross income this month
+3360.88     Net income if using PKK
+3528.88     Net income if not using PKK
+
+592413.88   Total earnings if using PKK
+622109.94   Total earnings if not using PKK 
+
+277413.03   Total (earnings - expenses) if using PKK
+307109.03   Total (earnings - expenses) is not using PKK 
+
+168.00      Employer cost 
+91010.68    Accumulated PKK 
+
+   --- Month 7, Year: 17 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+595937.19   Total earnings if using PKK
+625809.25   Total earnings if not using PKK 
+
+279436.34   Total (earnings - expenses) if using PKK
+309308.34   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+91513.42    Accumulated PKK 
+
+   --- Month 8, Year: 17 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+599460.50   Total earnings if using PKK
+629508.56   Total earnings if not using PKK 
+
+281459.66   Total (earnings - expenses) if using PKK
+311507.66   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+92016.16    Accumulated PKK 
+
+   --- Month 9, Year: 17 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+602983.81   Total earnings if using PKK
+633207.88   Total earnings if not using PKK 
+
+283482.97   Total (earnings - expenses) if using PKK
+313706.97   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+92518.91    Accumulated PKK 
+
+   --- Month 10, Year: 17 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+606507.12   Total earnings if using PKK
+636907.19   Total earnings if not using PKK 
+
+285506.28   Total (earnings - expenses) if using PKK
+315906.28   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+93021.65    Accumulated PKK 
+
+   --- Month 11, Year: 17 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+610030.44   Total earnings if using PKK
+640606.50   Total earnings if not using PKK 
+
+287529.59   Total (earnings - expenses) if using PKK
+318105.59   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+93524.39    Accumulated PKK 
+
+   --- Month 12, Year: 17 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+613553.75   Total earnings if using PKK
+644305.81   Total earnings if not using PKK 
+
+289552.91   Total (earnings - expenses) if using PKK
+320304.91   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+94027.13    Accumulated PKK 
+
+   --- Month 1, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+617077.06   Total earnings if using PKK
+648005.12   Total earnings if not using PKK 
+
+291576.22   Total (earnings - expenses) if using PKK
+322504.22   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+96770.10    Accumulated PKK 
+
+   --- Month 2, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+620600.38   Total earnings if using PKK
+651704.44   Total earnings if not using PKK 
+
+293599.53   Total (earnings - expenses) if using PKK
+324703.53   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+97282.90    Accumulated PKK 
+
+   --- Month 3, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+624123.69   Total earnings if using PKK
+655403.75   Total earnings if not using PKK 
+
+295622.84   Total (earnings - expenses) if using PKK
+326902.84   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+97795.70    Accumulated PKK 
+
+   --- Month 4, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+627647.00   Total earnings if using PKK
+659103.06   Total earnings if not using PKK 
+
+297646.16   Total (earnings - expenses) if using PKK
+329102.16   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+98308.50    Accumulated PKK 
+
+   --- Month 5, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+631170.31   Total earnings if using PKK
+662802.38   Total earnings if not using PKK 
+
+299669.47   Total (earnings - expenses) if using PKK
+331301.47   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+98821.30    Accumulated PKK 
+
+   --- Month 6, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+634693.62   Total earnings if using PKK
+666501.69   Total earnings if not using PKK 
+
+301692.78   Total (earnings - expenses) if using PKK
+333500.78   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+99334.09    Accumulated PKK 
+
+   --- Month 7, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+638216.94   Total earnings if using PKK
+670201.00   Total earnings if not using PKK 
+
+303716.09   Total (earnings - expenses) if using PKK
+335700.09   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+99846.89    Accumulated PKK 
+
+   --- Month 8, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+641740.25   Total earnings if using PKK
+673900.31   Total earnings if not using PKK 
+
+305739.41   Total (earnings - expenses) if using PKK
+337899.41   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+100359.69   Accumulated PKK 
+
+   --- Month 9, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+645263.56   Total earnings if using PKK
+677599.62   Total earnings if not using PKK 
+
+307762.72   Total (earnings - expenses) if using PKK
+340098.72   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+100872.48   Accumulated PKK 
+
+   --- Month 10, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+648786.88   Total earnings if using PKK
+681298.94   Total earnings if not using PKK 
+
+309786.03   Total (earnings - expenses) if using PKK
+342298.03   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+101385.28   Accumulated PKK 
+
+   --- Month 11, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+652310.19   Total earnings if using PKK
+684998.25   Total earnings if not using PKK 
+
+311809.34   Total (earnings - expenses) if using PKK
+344497.34   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+101898.08   Accumulated PKK 
+
+   --- Month 12, Year: 18 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+655833.50   Total earnings if using PKK
+688697.56   Total earnings if not using PKK 
+
+313832.66   Total (earnings - expenses) if using PKK
+346696.66   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+102410.88   Accumulated PKK 
+
+   --- Month 1, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+659356.81   Total earnings if using PKK
+692396.88   Total earnings if not using PKK 
+
+315855.97   Total (earnings - expenses) if using PKK
+348895.97   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+105338.77   Accumulated PKK 
+
+   --- Month 2, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+662880.12   Total earnings if using PKK
+696096.19   Total earnings if not using PKK 
+
+317879.28   Total (earnings - expenses) if using PKK
+351095.28   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+105861.83   Accumulated PKK 
+
+   --- Month 3, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+666403.44   Total earnings if using PKK
+699795.50   Total earnings if not using PKK 
+
+319902.59   Total (earnings - expenses) if using PKK
+353294.59   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+106384.88   Accumulated PKK 
+
+   --- Month 4, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+669926.75   Total earnings if using PKK
+703494.81   Total earnings if not using PKK 
+
+321925.91   Total (earnings - expenses) if using PKK
+355493.91   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+106907.93   Accumulated PKK 
+
+   --- Month 5, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+673450.06   Total earnings if using PKK
+707194.12   Total earnings if not using PKK 
+
+323949.22   Total (earnings - expenses) if using PKK
+357693.22   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+107430.98   Accumulated PKK 
+
+   --- Month 6, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+676973.38   Total earnings if using PKK
+710893.44   Total earnings if not using PKK 
+
+325972.53   Total (earnings - expenses) if using PKK
+359892.53   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+107954.04   Accumulated PKK 
+
+   --- Month 7, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+680496.69   Total earnings if using PKK
+714592.75   Total earnings if not using PKK 
+
+327995.84   Total (earnings - expenses) if using PKK
+362091.84   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+108477.09   Accumulated PKK 
+
+   --- Month 8, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+684020.00   Total earnings if using PKK
+718292.06   Total earnings if not using PKK 
+
+330019.16   Total (earnings - expenses) if using PKK
+364291.16   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+109000.14   Accumulated PKK 
+
+   --- Month 9, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+687543.31   Total earnings if using PKK
+721991.38   Total earnings if not using PKK 
+
+332042.47   Total (earnings - expenses) if using PKK
+366490.47   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+109523.20   Accumulated PKK 
+
+   --- Month 10, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+691066.62   Total earnings if using PKK
+725690.69   Total earnings if not using PKK 
+
+334065.78   Total (earnings - expenses) if using PKK
+368689.78   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+110046.25   Accumulated PKK 
+
+   --- Month 11, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+694589.94   Total earnings if using PKK
+729390.00   Total earnings if not using PKK 
+
+336089.09   Total (earnings - expenses) if using PKK
+370889.09   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+110569.30   Accumulated PKK 
+
+   --- Month 12, Year: 19 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+698113.25   Total earnings if using PKK
+733089.31   Total earnings if not using PKK 
+
+338112.41   Total (earnings - expenses) if using PKK
+373088.41   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+111092.36   Accumulated PKK 
+
+   --- Month 1, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+701636.56   Total earnings if using PKK
+736788.62   Total earnings if not using PKK 
+
+340135.72   Total (earnings - expenses) if using PKK
+375287.72   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+114211.48   Accumulated PKK 
+
+   --- Month 2, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+705159.88   Total earnings if using PKK
+740487.94   Total earnings if not using PKK 
+
+342159.03   Total (earnings - expenses) if using PKK
+377487.03   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+114744.99   Accumulated PKK 
+
+   --- Month 3, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+708683.19   Total earnings if using PKK
+744187.25   Total earnings if not using PKK 
+
+344182.34   Total (earnings - expenses) if using PKK
+379686.34   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+115278.51   Accumulated PKK 
+
+   --- Month 4, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+712206.50   Total earnings if using PKK
+747886.56   Total earnings if not using PKK 
+
+346205.66   Total (earnings - expenses) if using PKK
+381885.66   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+115812.02   Accumulated PKK 
+
+   --- Month 5, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+715729.81   Total earnings if using PKK
+751585.88   Total earnings if not using PKK 
+
+348228.97   Total (earnings - expenses) if using PKK
+384084.97   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+116345.53   Accumulated PKK 
+
+   --- Month 6, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+719253.12   Total earnings if using PKK
+755285.19   Total earnings if not using PKK 
+
+350252.28   Total (earnings - expenses) if using PKK
+386284.28   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+116879.05   Accumulated PKK 
+
+   --- Month 7, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+722776.44   Total earnings if using PKK
+758984.50   Total earnings if not using PKK 
+
+352275.59   Total (earnings - expenses) if using PKK
+388483.59   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+117412.56   Accumulated PKK 
+
+   --- Month 8, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+726299.75   Total earnings if using PKK
+762683.81   Total earnings if not using PKK 
+
+354298.91   Total (earnings - expenses) if using PKK
+390682.91   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+117946.08   Accumulated PKK 
+
+   --- Month 9, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+729823.06   Total earnings if using PKK
+766383.12   Total earnings if not using PKK 
+
+356322.22   Total (earnings - expenses) if using PKK
+392882.22   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+118479.59   Accumulated PKK 
+
+   --- Month 10, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+733346.38   Total earnings if using PKK
+770082.44   Total earnings if not using PKK 
+
+358345.53   Total (earnings - expenses) if using PKK
+395081.53   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+119013.11   Accumulated PKK 
+
+   --- Month 11, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+736869.69   Total earnings if using PKK
+773781.75   Total earnings if not using PKK 
+
+360368.84   Total (earnings - expenses) if using PKK
+397280.84   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+119546.62   Accumulated PKK 
+
+   --- Month 12, Year: 20 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+740393.00   Total earnings if using PKK
+777481.06   Total earnings if not using PKK 
+
+362392.16   Total (earnings - expenses) if using PKK
+399480.16   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+120080.13   Accumulated PKK 
+
+   --- Month 1, Year: 21 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+743916.31   Total earnings if using PKK
+781180.38   Total earnings if not using PKK 
+
+364415.47   Total (earnings - expenses) if using PKK
+401679.47   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+123396.95   Accumulated PKK 
+
+   --- Month 2, Year: 21 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+747439.62   Total earnings if using PKK
+784879.69   Total earnings if not using PKK 
+
+366438.78   Total (earnings - expenses) if using PKK
+403878.78   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+123941.14   Accumulated PKK 
+
+   --- Month 3, Year: 21 ---
+4400.00     Gross income this month
+3523.30     Net income if using PKK
+3699.30     Net income if not using PKK
+
+750962.94   Total earnings if using PKK
+788579.00   Total earnings if not using PKK 
+
+368462.09   Total (earnings - expenses) if using PKK
+406078.09   Total (earnings - expenses) is not using PKK 
+
+176.00      Employer cost 
+124485.32   Accumulated PKK 
+
+   --- Month 4, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+754648.69   Total earnings if using PKK
+792448.75   Total earnings if not using PKK 
+
+370647.81   Total (earnings - expenses) if using PKK
+408447.81   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+125054.24   Accumulated PKK 
+
+   --- Month 5, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+758334.44   Total earnings if using PKK
+796318.50   Total earnings if not using PKK 
+
+372833.53   Total (earnings - expenses) if using PKK
+410817.53   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+125623.16   Accumulated PKK 
+
+   --- Month 6, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+762020.19   Total earnings if using PKK
+800188.25   Total earnings if not using PKK 
+
+375019.25   Total (earnings - expenses) if using PKK
+413187.25   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+126192.09   Accumulated PKK 
+
+   --- Month 7, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+765705.94   Total earnings if using PKK
+804058.00   Total earnings if not using PKK 
+
+377204.97   Total (earnings - expenses) if using PKK
+415556.97   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+126761.01   Accumulated PKK 
+
+   --- Month 8, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+769391.69   Total earnings if using PKK
+807927.75   Total earnings if not using PKK 
+
+379390.69   Total (earnings - expenses) if using PKK
+417926.69   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+127329.92   Accumulated PKK 
+
+   --- Month 9, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+773077.44   Total earnings if using PKK
+811797.50   Total earnings if not using PKK 
+
+381576.41   Total (earnings - expenses) if using PKK
+420296.41   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+127898.84   Accumulated PKK 
+
+   --- Month 10, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+776763.19   Total earnings if using PKK
+815667.25   Total earnings if not using PKK 
+
+383762.12   Total (earnings - expenses) if using PKK
+422666.12   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+128467.77   Accumulated PKK 
+
+   --- Month 11, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+780448.94   Total earnings if using PKK
+819537.00   Total earnings if not using PKK 
+
+385947.84   Total (earnings - expenses) if using PKK
+425035.84   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+129036.69   Accumulated PKK 
+
+   --- Month 12, Year: 21 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+784134.69   Total earnings if using PKK
+823406.75   Total earnings if not using PKK 
+
+388133.56   Total (earnings - expenses) if using PKK
+427405.56   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+129605.61   Accumulated PKK 
+
+   --- Month 1, Year: 22 ---
+4600.00     Gross income this month
+3685.72     Net income if using PKK
+3869.72     Net income if not using PKK
+
+787820.44   Total earnings if using PKK
+827276.50   Total earnings if not using PKK 
+
+390319.28   Total (earnings - expenses) if using PKK
+429775.28   Total (earnings - expenses) is not using PKK 
+
+184.00      Employer cost 
+133156.47   Accumulated PKK 
+
+   --- Month 2, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+791668.56   Total earnings if using PKK
+831316.62   Total earnings if not using PKK 
+
+392667.44   Total (earnings - expenses) if using PKK
+432315.44   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+133762.00   Accumulated PKK 
+
+   --- Month 3, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+795516.69   Total earnings if using PKK
+835356.75   Total earnings if not using PKK 
+
+395015.59   Total (earnings - expenses) if using PKK
+434855.59   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+134367.53   Accumulated PKK 
+
+   --- Month 4, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+799364.81   Total earnings if using PKK
+839396.88   Total earnings if not using PKK 
+
+397363.75   Total (earnings - expenses) if using PKK
+437395.75   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+134973.06   Accumulated PKK 
+
+   --- Month 5, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+803212.94   Total earnings if using PKK
+843437.00   Total earnings if not using PKK 
+
+399711.91   Total (earnings - expenses) if using PKK
+439935.91   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+135578.59   Accumulated PKK 
+
+   --- Month 6, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+807061.06   Total earnings if using PKK
+847477.12   Total earnings if not using PKK 
+
+402060.06   Total (earnings - expenses) if using PKK
+442476.06   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+136184.11   Accumulated PKK 
+
+   --- Month 7, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+810909.19   Total earnings if using PKK
+851517.25   Total earnings if not using PKK 
+
+404408.22   Total (earnings - expenses) if using PKK
+445016.22   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+136789.64   Accumulated PKK 
+
+   --- Month 8, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+814757.31   Total earnings if using PKK
+855557.38   Total earnings if not using PKK 
+
+406756.38   Total (earnings - expenses) if using PKK
+447556.38   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+137395.17   Accumulated PKK 
+
+   --- Month 9, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+818605.44   Total earnings if using PKK
+859597.50   Total earnings if not using PKK 
+
+409104.53   Total (earnings - expenses) if using PKK
+450096.53   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+138000.70   Accumulated PKK 
+
+   --- Month 10, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+822453.56   Total earnings if using PKK
+863637.62   Total earnings if not using PKK 
+
+411452.69   Total (earnings - expenses) if using PKK
+452636.69   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+138606.23   Accumulated PKK 
+
+   --- Month 11, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+826301.69   Total earnings if using PKK
+867677.75   Total earnings if not using PKK 
+
+413800.84   Total (earnings - expenses) if using PKK
+455176.84   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+139211.77   Accumulated PKK 
+
+   --- Month 12, Year: 22 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+830149.81   Total earnings if using PKK
+871717.88   Total earnings if not using PKK 
+
+416149.00   Total (earnings - expenses) if using PKK
+457717.00   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+139817.30   Accumulated PKK 
+
+   --- Month 1, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+833997.94   Total earnings if using PKK
+875758.00   Total earnings if not using PKK 
+
+418497.16   Total (earnings - expenses) if using PKK
+460257.16   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+143617.30   Accumulated PKK 
+
+   --- Month 2, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+837846.06   Total earnings if using PKK
+879798.12   Total earnings if not using PKK 
+
+420845.31   Total (earnings - expenses) if using PKK
+462797.31   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+144234.94   Accumulated PKK 
+
+   --- Month 3, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+841694.19   Total earnings if using PKK
+883838.25   Total earnings if not using PKK 
+
+423193.47   Total (earnings - expenses) if using PKK
+465337.47   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+144852.58   Accumulated PKK 
+
+   --- Month 4, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+845542.31   Total earnings if using PKK
+887878.38   Total earnings if not using PKK 
+
+425541.62   Total (earnings - expenses) if using PKK
+467877.62   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+145470.22   Accumulated PKK 
+
+   --- Month 5, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+849390.44   Total earnings if using PKK
+891918.50   Total earnings if not using PKK 
+
+427889.78   Total (earnings - expenses) if using PKK
+470417.78   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+146087.86   Accumulated PKK 
+
+   --- Month 6, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+853238.56   Total earnings if using PKK
+895958.62   Total earnings if not using PKK 
+
+430237.94   Total (earnings - expenses) if using PKK
+472957.94   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+146705.50   Accumulated PKK 
+
+   --- Month 7, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+857086.69   Total earnings if using PKK
+899998.75   Total earnings if not using PKK 
+
+432586.09   Total (earnings - expenses) if using PKK
+475498.09   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+147323.14   Accumulated PKK 
+
+   --- Month 8, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+860934.81   Total earnings if using PKK
+904038.88   Total earnings if not using PKK 
+
+434934.25   Total (earnings - expenses) if using PKK
+478038.25   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+147940.78   Accumulated PKK 
+
+   --- Month 9, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+864782.94   Total earnings if using PKK
+908079.00   Total earnings if not using PKK 
+
+437282.41   Total (earnings - expenses) if using PKK
+480578.41   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+148558.42   Accumulated PKK 
+
+   --- Month 10, Year: 23 ---
+4800.00     Gross income this month
+3848.15     Net income if using PKK
+4040.15     Net income if not using PKK
+
+868631.06   Total earnings if using PKK
+912119.12   Total earnings if not using PKK 
+
+439630.56   Total (earnings - expenses) if using PKK
+483118.56   Total (earnings - expenses) is not using PKK 
+
+192.00      Employer cost 
+149176.05   Accumulated PKK 
+
+   --- Month 11, Year: 23 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+872641.62   Total earnings if using PKK
+916329.69   Total earnings if not using PKK 
+
+442141.12   Total (earnings - expenses) if using PKK
+485829.12   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+149819.42   Accumulated PKK 
+
+   --- Month 12, Year: 23 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+876652.19   Total earnings if using PKK
+920540.25   Total earnings if not using PKK 
+
+444651.69   Total (earnings - expenses) if using PKK
+488539.69   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+150462.80   Accumulated PKK 
+
+   --- Month 1, Year: 24 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+880662.75   Total earnings if using PKK
+924750.81   Total earnings if not using PKK 
+
+447162.25   Total (earnings - expenses) if using PKK
+491250.25   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+154522.05   Accumulated PKK 
+
+   --- Month 2, Year: 24 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+884673.31   Total earnings if using PKK
+928961.38   Total earnings if not using PKK 
+
+449672.81   Total (earnings - expenses) if using PKK
+493960.81   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+155178.28   Accumulated PKK 
+
+   --- Month 3, Year: 24 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+888683.88   Total earnings if using PKK
+933171.94   Total earnings if not using PKK 
+
+452183.38   Total (earnings - expenses) if using PKK
+496671.38   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+155834.53   Accumulated PKK 
+
+   --- Month 4, Year: 24 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+892694.44   Total earnings if using PKK
+937382.50   Total earnings if not using PKK 
+
+454693.94   Total (earnings - expenses) if using PKK
+499381.94   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+156490.77   Accumulated PKK 
+
+   --- Month 5, Year: 24 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+896705.00   Total earnings if using PKK
+941593.06   Total earnings if not using PKK 
+
+457204.50   Total (earnings - expenses) if using PKK
+502092.50   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+157147.02   Accumulated PKK 
+
+   --- Month 6, Year: 24 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+900715.56   Total earnings if using PKK
+945803.62   Total earnings if not using PKK 
+
+459715.06   Total (earnings - expenses) if using PKK
+504803.06   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+157803.25   Accumulated PKK 
+
+   --- Month 7, Year: 24 ---
+5000.00     Gross income this month
+4010.57     Net income if using PKK
+4210.57     Net income if not using PKK
+
+904726.12   Total earnings if using PKK
+950014.19   Total earnings if not using PKK 
+
+462225.62   Total (earnings - expenses) if using PKK
+507513.62   Total (earnings - expenses) is not using PKK 
+
+200.00      Employer cost 
+158459.50   Accumulated PKK 
+
+   --- Month 8, Year: 24 ---
+5200.00     Gross income this month
+4172.99     Net income if using PKK
+4380.99     Net income if not using PKK
+
+908899.12   Total earnings if using PKK
+954395.19   Total earnings if not using PKK 
+
+464898.62   Total (earnings - expenses) if using PKK
+510394.62   Total (earnings - expenses) is not using PKK 
+
+208.00      Employer cost 
+159141.98   Accumulated PKK 
+
+   --- Month 9, Year: 24 ---
+5200.00     Gross income this month
+4172.99     Net income if using PKK
+4380.99     Net income if not using PKK
+
+913072.12   Total earnings if using PKK
+958776.19   Total earnings if not using PKK 
+
+467571.62   Total (earnings - expenses) if using PKK
+513275.62   Total (earnings - expenses) is not using PKK 
+
+208.00      Employer cost 
+159824.48   Accumulated PKK 
+
+   --- Month 10, Year: 24 ---
+5200.00     Gross income this month
+4172.99     Net income if using PKK
+4380.99     Net income if not using PKK
+
+917245.12   Total earnings if using PKK
+963157.19   Total earnings if not using PKK 
+
+470244.62   Total (earnings - expenses) if using PKK
+516156.62   Total (earnings - expenses) is not using PKK 
+
+208.00      Employer cost 
+160506.97   Accumulated PKK 
+
+   --- Month 11, Year: 24 ---
+5200.00     Gross income this month
+4172.99     Net income if using PKK
+4380.99     Net income if not using PKK
+
+921418.12   Total earnings if using PKK
+967538.19   Total earnings if not using PKK 
+
+472917.62   Total (earnings - expenses) if using PKK
+519037.62   Total (earnings - expenses) is not using PKK 
+
+208.00      Employer cost 
+161189.47   Accumulated PKK 
+
+   --- Month 12, Year: 24 ---
+5200.00     Gross income this month
+4172.99     Net income if using PKK
+4380.99     Net income if not using PKK
+
+925591.12   Total earnings if using PKK
+971919.19   Total earnings if not using PKK 
+
+475590.62   Total (earnings - expenses) if using PKK
+521918.62   Total (earnings - expenses) is not using PKK 
+
+208.00      Employer cost 
+161871.95   Accumulated PKK 
+
+   --- Month 1, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+929926.56   Total earnings if using PKK
+976470.62   Total earnings if not using PKK 
+
+478426.03   Total (earnings - expenses) if using PKK
+524970.06   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+166233.92   Accumulated PKK 
+
+   --- Month 2, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+934262.00   Total earnings if using PKK
+981022.06   Total earnings if not using PKK 
+
+481261.44   Total (earnings - expenses) if using PKK
+528021.50   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+166956.84   Accumulated PKK 
+
+   --- Month 3, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+938597.44   Total earnings if using PKK
+985573.50   Total earnings if not using PKK 
+
+484096.84   Total (earnings - expenses) if using PKK
+531072.94   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+167679.77   Accumulated PKK 
+
+   --- Month 4, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+942932.88   Total earnings if using PKK
+990124.94   Total earnings if not using PKK 
+
+486932.25   Total (earnings - expenses) if using PKK
+534124.38   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+168402.67   Accumulated PKK 
+
+   --- Month 5, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+947268.31   Total earnings if using PKK
+994676.38   Total earnings if not using PKK 
+
+489767.66   Total (earnings - expenses) if using PKK
+537175.81   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+169125.59   Accumulated PKK 
+
+   --- Month 6, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+951603.75   Total earnings if using PKK
+999227.81   Total earnings if not using PKK 
+
+492603.06   Total (earnings - expenses) if using PKK
+540227.25   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+169848.52   Accumulated PKK 
+
+   --- Month 7, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+955939.19   Total earnings if using PKK
+1003779.25  Total earnings if not using PKK 
+
+495438.47   Total (earnings - expenses) if using PKK
+543278.69   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+170571.42   Accumulated PKK 
+
+   --- Month 8, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+960274.62   Total earnings if using PKK
+1008330.69  Total earnings if not using PKK 
+
+498273.88   Total (earnings - expenses) if using PKK
+546330.12   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+171294.34   Accumulated PKK 
+
+   --- Month 9, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+964610.06   Total earnings if using PKK
+1012882.12  Total earnings if not using PKK 
+
+501109.28   Total (earnings - expenses) if using PKK
+549381.56   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+172017.27   Accumulated PKK 
+
+   --- Month 10, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+968945.50   Total earnings if using PKK
+1017433.56  Total earnings if not using PKK 
+
+503944.69   Total (earnings - expenses) if using PKK
+552433.00   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+172740.17   Accumulated PKK 
+
+   --- Month 11, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+973280.94   Total earnings if using PKK
+1021985.00  Total earnings if not using PKK 
+
+506780.09   Total (earnings - expenses) if using PKK
+555484.44   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+173463.09   Accumulated PKK 
+
+   --- Month 12, Year: 25 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+977616.38   Total earnings if using PKK
+1026536.44  Total earnings if not using PKK 
+
+509615.50   Total (earnings - expenses) if using PKK
+558535.88   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+174186.00   Accumulated PKK 
+
+   --- Month 1, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+981951.81   Total earnings if using PKK
+1031087.88  Total earnings if not using PKK 
+
+512450.91   Total (earnings - expenses) if using PKK
+561587.31   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+178816.75   Accumulated PKK 
+
+   --- Month 2, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+986287.25   Total earnings if using PKK
+1035639.31  Total earnings if not using PKK 
+
+515286.31   Total (earnings - expenses) if using PKK
+564638.75   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+179554.12   Accumulated PKK 
+
+   --- Month 3, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+990622.69   Total earnings if using PKK
+1040190.75  Total earnings if not using PKK 
+
+518121.72   Total (earnings - expenses) if using PKK
+567690.19   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+180291.50   Accumulated PKK 
+
+   --- Month 4, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+994958.12   Total earnings if using PKK
+1044742.19  Total earnings if not using PKK 
+
+520957.12   Total (earnings - expenses) if using PKK
+570741.62   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+181028.88   Accumulated PKK 
+
+   --- Month 5, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+999293.56   Total earnings if using PKK
+1049293.62  Total earnings if not using PKK 
+
+523792.53   Total (earnings - expenses) if using PKK
+573793.06   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+181766.25   Accumulated PKK 
+
+   --- Month 6, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1003629.00  Total earnings if using PKK
+1053845.00  Total earnings if not using PKK 
+
+526627.94   Total (earnings - expenses) if using PKK
+576844.50   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+182503.62   Accumulated PKK 
+
+   --- Month 7, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1007964.44  Total earnings if using PKK
+1058396.38  Total earnings if not using PKK 
+
+529463.38   Total (earnings - expenses) if using PKK
+579895.94   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+183241.00   Accumulated PKK 
+
+   --- Month 8, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1012299.88  Total earnings if using PKK
+1062947.75  Total earnings if not using PKK 
+
+532298.81   Total (earnings - expenses) if using PKK
+582947.38   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+183978.38   Accumulated PKK 
+
+   --- Month 9, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1016635.31  Total earnings if using PKK
+1067499.12  Total earnings if not using PKK 
+
+535134.25   Total (earnings - expenses) if using PKK
+585998.81   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+184715.75   Accumulated PKK 
+
+   --- Month 10, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1020970.75  Total earnings if using PKK
+1072050.50  Total earnings if not using PKK 
+
+537969.69   Total (earnings - expenses) if using PKK
+589050.25   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+185453.12   Accumulated PKK 
+
+   --- Month 11, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1025306.19  Total earnings if using PKK
+1076601.88  Total earnings if not using PKK 
+
+540805.12   Total (earnings - expenses) if using PKK
+592101.69   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+186190.50   Accumulated PKK 
+
+   --- Month 12, Year: 26 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1029641.62  Total earnings if using PKK
+1081153.25  Total earnings if not using PKK 
+
+543640.56   Total (earnings - expenses) if using PKK
+595153.12   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+186927.88   Accumulated PKK 
+
+   --- Month 1, Year: 27 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1033977.06  Total earnings if using PKK
+1085704.62  Total earnings if not using PKK 
+
+546476.00   Total (earnings - expenses) if using PKK
+598204.56   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+191836.39   Accumulated PKK 
+
+   --- Month 2, Year: 27 ---
+5400.00     Gross income this month
+4335.41     Net income if using PKK
+4551.41     Net income if not using PKK
+
+1038312.50  Total earnings if using PKK
+1090256.00  Total earnings if not using PKK 
+
+549311.44   Total (earnings - expenses) if using PKK
+601256.00   Total (earnings - expenses) is not using PKK 
+
+216.00      Employer cost 
+192588.52   Accumulated PKK 
+
+   --- Month 3, Year: 27 ---
+5600.00     Gross income this month
+4497.84     Net income if using PKK
+4721.84     Net income if not using PKK
+
+1042810.31  Total earnings if using PKK
+1094977.88  Total earnings if not using PKK 
+
+552309.25   Total (earnings - expenses) if using PKK
+604477.81   Total (earnings - expenses) is not using PKK 
+
+224.00      Employer cost 
+193368.50   Accumulated PKK 
+
+   --- Month 4, Year: 27 ---
+5600.00     Gross income this month
+4497.84     Net income if using PKK
+4721.84     Net income if not using PKK
+
+1047308.12  Total earnings if using PKK
+1099699.75  Total earnings if not using PKK 
+
+555307.06   Total (earnings - expenses) if using PKK
+607699.62   Total (earnings - expenses) is not using PKK 
+
+224.00      Employer cost 
+194148.47   Accumulated PKK 
+
+   --- Month 5, Year: 27 ---
+5600.00     Gross income this month
+4497.84     Net income if using PKK
+4721.84     Net income if not using PKK
+
+1051806.00  Total earnings if using PKK
+1104421.62  Total earnings if not using PKK 
+
+558304.88   Total (earnings - expenses) if using PKK
+610921.44   Total (earnings - expenses) is not using PKK 
+
+224.00      Employer cost 
+194928.45   Accumulated PKK 
+
+   --- Month 6, Year: 27 ---
+5600.00     Gross income this month
+4497.84     Net income if using PKK
+4721.84     Net income if not using PKK
+
+1056303.88  Total earnings if using PKK
+1109143.50  Total earnings if not using PKK 
+
+561302.69   Total (earnings - expenses) if using PKK
+614143.25   Total (earnings - expenses) is not using PKK 
+
+224.00      Employer cost 
+195708.42   Accumulated PKK 
+
+   --- Month 7, Year: 27 ---
+5600.00     Gross income this month
+4497.84     Net income if using PKK
+4721.84     Net income if not using PKK
+
+1060801.75  Total earnings if using PKK
+1113865.38  Total earnings if not using PKK 
+
+564300.50   Total (earnings - expenses) if using PKK
+617365.06   Total (earnings - expenses) is not using PKK 
+
+224.00      Employer cost 
+196488.41   Accumulated PKK 
+
+   --- Month 8, Year: 27 ---
+5600.00     Gross income this month
+4497.84     Net income if using PKK
+4721.84     Net income if not using PKK
+
+1065299.62  Total earnings if using PKK
+1118587.25  Total earnings if not using PKK 
+
+567298.31   Total (earnings - expenses) if using PKK
+620586.88   Total (earnings - expenses) is not using PKK 
+
+224.00      Employer cost 
+197268.39   Accumulated PKK 
+
+   --- Month 9, Year: 27 ---
+5600.00     Gross income this month
+4497.84     Net income if using PKK
+4721.84     Net income if not using PKK
+
+1069797.50  Total earnings if using PKK
+1123309.12  Total earnings if not using PKK 
+
+570296.12   Total (earnings - expenses) if using PKK
+623808.69   Total (earnings - expenses) is not using PKK 
+
+224.00      Employer cost 
+198048.36   Accumulated PKK 
+
+   --- Month 10, Year: 27 ---
+5600.00     Gross income this month
+4497.84     Net income if using PKK
+4721.84     Net income if not using PKK
+
+1074295.38  Total earnings if using PKK
+1128031.00  Total earnings if not using PKK 
+
+573293.94   Total (earnings - expenses) if using PKK
+627030.50   Total (earnings - expenses) is not using PKK 
+
+224.00      Employer cost 
+198828.34   Accumulated PKK 
+
+   --- Month 11, Year: 27 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1078955.62  Total earnings if using PKK
+1132923.25  Total earnings if not using PKK 
+
+576454.19   Total (earnings - expenses) if using PKK
+630422.75   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+199636.17   Accumulated PKK 
+
+   --- Month 12, Year: 27 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1083615.88  Total earnings if using PKK
+1137815.50  Total earnings if not using PKK 
+
+579614.44   Total (earnings - expenses) if using PKK
+633815.00   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+200444.02   Accumulated PKK 
+
+   --- Month 1, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1088276.12  Total earnings if using PKK
+1142707.75  Total earnings if not using PKK 
+
+582774.69   Total (earnings - expenses) if using PKK
+637207.25   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+205703.08   Accumulated PKK 
+
+   --- Month 2, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1092936.38  Total earnings if using PKK
+1147600.00  Total earnings if not using PKK 
+
+585934.94   Total (earnings - expenses) if using PKK
+640599.50   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+206527.08   Accumulated PKK 
+
+   --- Month 3, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1097596.62  Total earnings if using PKK
+1152492.25  Total earnings if not using PKK 
+
+589095.19   Total (earnings - expenses) if using PKK
+643991.75   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+207351.06   Accumulated PKK 
+
+   --- Month 4, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1102256.88  Total earnings if using PKK
+1157384.50  Total earnings if not using PKK 
+
+592255.44   Total (earnings - expenses) if using PKK
+647384.00   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+208175.06   Accumulated PKK 
+
+   --- Month 5, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1106917.12  Total earnings if using PKK
+1162276.75  Total earnings if not using PKK 
+
+595415.69   Total (earnings - expenses) if using PKK
+650776.25   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+208999.05   Accumulated PKK 
+
+   --- Month 6, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1111577.38  Total earnings if using PKK
+1167169.00  Total earnings if not using PKK 
+
+598575.94   Total (earnings - expenses) if using PKK
+654168.50   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+209823.05   Accumulated PKK 
+
+   --- Month 7, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1116237.62  Total earnings if using PKK
+1172061.25  Total earnings if not using PKK 
+
+601736.19   Total (earnings - expenses) if using PKK
+657560.75   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+210647.03   Accumulated PKK 
+
+   --- Month 8, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1120897.88  Total earnings if using PKK
+1176953.50  Total earnings if not using PKK 
+
+604896.44   Total (earnings - expenses) if using PKK
+660953.00   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+211471.02   Accumulated PKK 
+
+   --- Month 9, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1125558.12  Total earnings if using PKK
+1181845.75  Total earnings if not using PKK 
+
+608056.69   Total (earnings - expenses) if using PKK
+664345.25   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+212295.02   Accumulated PKK 
+
+   --- Month 10, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1130218.38  Total earnings if using PKK
+1186738.00  Total earnings if not using PKK 
+
+611216.94   Total (earnings - expenses) if using PKK
+667737.50   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+213119.00   Accumulated PKK 
+
+   --- Month 11, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1134878.62  Total earnings if using PKK
+1191630.25  Total earnings if not using PKK 
+
+614377.19   Total (earnings - expenses) if using PKK
+671129.75   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+213943.00   Accumulated PKK 
+
+   --- Month 12, Year: 28 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1139538.88  Total earnings if using PKK
+1196522.50  Total earnings if not using PKK 
+
+617537.44   Total (earnings - expenses) if using PKK
+674522.00   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+214766.98   Accumulated PKK 
+
+   --- Month 1, Year: 29 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1144199.12  Total earnings if using PKK
+1201414.75  Total earnings if not using PKK 
+
+620697.69   Total (earnings - expenses) if using PKK
+677914.25   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+220337.52   Accumulated PKK 
+
+   --- Month 2, Year: 29 ---
+5800.00     Gross income this month
+4660.26     Net income if using PKK
+4892.26     Net income if not using PKK
+
+1148859.38  Total earnings if using PKK
+1206307.00  Total earnings if not using PKK 
+
+623857.94   Total (earnings - expenses) if using PKK
+681306.50   Total (earnings - expenses) is not using PKK 
+
+232.00      Employer cost 
+221178.00   Accumulated PKK 
+
+   --- Month 3, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1153682.00  Total earnings if using PKK
+1211369.62  Total earnings if not using PKK 
+
+627180.62   Total (earnings - expenses) if using PKK
+684869.19   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+222047.45   Accumulated PKK 
+
+   --- Month 4, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1158504.62  Total earnings if using PKK
+1216432.25  Total earnings if not using PKK 
+
+630503.31   Total (earnings - expenses) if using PKK
+688431.88   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+222916.91   Accumulated PKK 
+
+   --- Month 5, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1163327.25  Total earnings if using PKK
+1221494.88  Total earnings if not using PKK 
+
+633826.00   Total (earnings - expenses) if using PKK
+691994.56   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+223786.36   Accumulated PKK 
+
+   --- Month 6, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1168149.88  Total earnings if using PKK
+1226557.50  Total earnings if not using PKK 
+
+637148.69   Total (earnings - expenses) if using PKK
+695557.25   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+224655.81   Accumulated PKK 
+
+   --- Month 7, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1172972.50  Total earnings if using PKK
+1231620.12  Total earnings if not using PKK 
+
+640471.38   Total (earnings - expenses) if using PKK
+699119.94   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+225525.27   Accumulated PKK 
+
+   --- Month 8, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1177795.12  Total earnings if using PKK
+1236682.75  Total earnings if not using PKK 
+
+643794.06   Total (earnings - expenses) if using PKK
+702682.62   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+226394.72   Accumulated PKK 
+
+   --- Month 9, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1182617.75  Total earnings if using PKK
+1241745.38  Total earnings if not using PKK 
+
+647116.75   Total (earnings - expenses) if using PKK
+706245.31   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+227264.17   Accumulated PKK 
+
+   --- Month 10, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1187440.38  Total earnings if using PKK
+1246808.00  Total earnings if not using PKK 
+
+650439.44   Total (earnings - expenses) if using PKK
+709808.00   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+228133.62   Accumulated PKK 
+
+   --- Month 11, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1192263.00  Total earnings if using PKK
+1251870.62  Total earnings if not using PKK 
+
+653762.12   Total (earnings - expenses) if using PKK
+713370.69   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+229003.08   Accumulated PKK 
+
+   --- Month 12, Year: 29 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1197085.62  Total earnings if using PKK
+1256933.25  Total earnings if not using PKK 
+
+657084.81   Total (earnings - expenses) if using PKK
+716933.38   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+229872.53   Accumulated PKK 
+
+   --- Month 1, Year: 30 ---
+6000.00     Gross income this month
+4822.68     Net income if using PKK
+5062.68     Net income if not using PKK
+
+1201908.25  Total earnings if using PKK
+1261995.88  Total earnings if not using PKK 
+
+660407.50   Total (earnings - expenses) if using PKK
+720496.06   Total (earnings - expenses) is not using PKK 
+
+240.00      Employer cost 
+235800.23   Accumulated PKK 
+
+   --- Month 2, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1206893.38  Total earnings if using PKK
+1267229.00  Total earnings if not using PKK 
+
+663892.62   Total (earnings - expenses) if using PKK
+724229.19   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+236716.64   Accumulated PKK 
+
+   --- Month 3, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1211878.50  Total earnings if using PKK
+1272462.12  Total earnings if not using PKK 
+
+667377.75   Total (earnings - expenses) if using PKK
+727962.31   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+237633.05   Accumulated PKK 
+
+   --- Month 4, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1216863.62  Total earnings if using PKK
+1277695.25  Total earnings if not using PKK 
+
+670862.88   Total (earnings - expenses) if using PKK
+731695.44   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+238549.44   Accumulated PKK 
+
+   --- Month 5, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1221848.75  Total earnings if using PKK
+1282928.38  Total earnings if not using PKK 
+
+674348.00   Total (earnings - expenses) if using PKK
+735428.56   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+239465.84   Accumulated PKK 
+
+   --- Month 6, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1226833.88  Total earnings if using PKK
+1288161.50  Total earnings if not using PKK 
+
+677833.12   Total (earnings - expenses) if using PKK
+739161.69   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+240382.25   Accumulated PKK 
+
+   --- Month 7, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1231819.00  Total earnings if using PKK
+1293394.62  Total earnings if not using PKK 
+
+681318.25   Total (earnings - expenses) if using PKK
+742894.81   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+241298.66   Accumulated PKK 
+
+   --- Month 8, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1236804.12  Total earnings if using PKK
+1298627.75  Total earnings if not using PKK 
+
+684803.38   Total (earnings - expenses) if using PKK
+746627.94   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+242215.06   Accumulated PKK 
+
+   --- Month 9, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1241789.25  Total earnings if using PKK
+1303860.88  Total earnings if not using PKK 
+
+688288.50   Total (earnings - expenses) if using PKK
+750361.06   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+243131.47   Accumulated PKK 
+
+   --- Month 10, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1246774.38  Total earnings if using PKK
+1309094.00  Total earnings if not using PKK 
+
+691773.62   Total (earnings - expenses) if using PKK
+754094.19   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+244047.86   Accumulated PKK 
+
+   --- Month 11, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1251759.50  Total earnings if using PKK
+1314327.12  Total earnings if not using PKK 
+
+695258.75   Total (earnings - expenses) if using PKK
+757827.31   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+244964.27   Accumulated PKK 
+
+   --- Month 12, Year: 30 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1256744.62  Total earnings if using PKK
+1319560.25  Total earnings if not using PKK 
+
+698743.88   Total (earnings - expenses) if using PKK
+761560.44   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+245880.67   Accumulated PKK 
+
+   --- Month 1, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1261729.75  Total earnings if using PKK
+1324793.38  Total earnings if not using PKK 
+
+702229.00   Total (earnings - expenses) if using PKK
+765293.56   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+252185.30   Accumulated PKK 
+
+   --- Month 2, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1266714.88  Total earnings if using PKK
+1330026.50  Total earnings if not using PKK 
+
+705714.12   Total (earnings - expenses) if using PKK
+769026.69   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+253120.03   Accumulated PKK 
+
+   --- Month 3, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1271700.00  Total earnings if using PKK
+1335259.62  Total earnings if not using PKK 
+
+709199.25   Total (earnings - expenses) if using PKK
+772759.81   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+254054.77   Accumulated PKK 
+
+   --- Month 4, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1276685.12  Total earnings if using PKK
+1340492.75  Total earnings if not using PKK 
+
+712684.38   Total (earnings - expenses) if using PKK
+776492.94   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+254989.50   Accumulated PKK 
+
+   --- Month 5, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1281670.25  Total earnings if using PKK
+1345725.88  Total earnings if not using PKK 
+
+716169.50   Total (earnings - expenses) if using PKK
+780226.06   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+255924.23   Accumulated PKK 
+
+   --- Month 6, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1286655.38  Total earnings if using PKK
+1350959.00  Total earnings if not using PKK 
+
+719654.62   Total (earnings - expenses) if using PKK
+783959.19   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+256858.95   Accumulated PKK 
+
+   --- Month 7, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1291640.50  Total earnings if using PKK
+1356192.12  Total earnings if not using PKK 
+
+723139.75   Total (earnings - expenses) if using PKK
+787692.31   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+257793.69   Accumulated PKK 
+
+   --- Month 8, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1296625.62  Total earnings if using PKK
+1361425.25  Total earnings if not using PKK 
+
+726624.88   Total (earnings - expenses) if using PKK
+791425.44   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+258728.42   Accumulated PKK 
+
+   --- Month 9, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1301610.75  Total earnings if using PKK
+1366658.38  Total earnings if not using PKK 
+
+730110.00   Total (earnings - expenses) if using PKK
+795158.56   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+259663.16   Accumulated PKK 
+
+   --- Month 10, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1306595.88  Total earnings if using PKK
+1371891.50  Total earnings if not using PKK 
+
+733595.12   Total (earnings - expenses) if using PKK
+798891.69   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+260597.89   Accumulated PKK 
+
+   --- Month 11, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1311581.00  Total earnings if using PKK
+1377124.62  Total earnings if not using PKK 
+
+737080.25   Total (earnings - expenses) if using PKK
+802624.81   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+261532.62   Accumulated PKK 
+
+   --- Month 12, Year: 31 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1316566.12  Total earnings if using PKK
+1382357.75  Total earnings if not using PKK 
+
+740565.38   Total (earnings - expenses) if using PKK
+806357.94   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+262467.34   Accumulated PKK 
+
+   --- Month 1, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1321551.25  Total earnings if using PKK
+1387590.88  Total earnings if not using PKK 
+
+744050.50   Total (earnings - expenses) if using PKK
+810091.06   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+269131.44   Accumulated PKK 
+
+   --- Month 2, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1326536.38  Total earnings if using PKK
+1392824.00  Total earnings if not using PKK 
+
+747535.62   Total (earnings - expenses) if using PKK
+813824.19   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+270084.88   Accumulated PKK 
+
+   --- Month 3, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1331521.50  Total earnings if using PKK
+1398057.12  Total earnings if not using PKK 
+
+751020.75   Total (earnings - expenses) if using PKK
+817557.31   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+271038.31   Accumulated PKK 
+
+   --- Month 4, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1336506.62  Total earnings if using PKK
+1403290.25  Total earnings if not using PKK 
+
+754505.88   Total (earnings - expenses) if using PKK
+821290.44   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+271991.72   Accumulated PKK 
+
+   --- Month 5, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1341491.75  Total earnings if using PKK
+1408523.38  Total earnings if not using PKK 
+
+757991.00   Total (earnings - expenses) if using PKK
+825023.56   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+272945.16   Accumulated PKK 
+
+   --- Month 6, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1346476.88  Total earnings if using PKK
+1413756.50  Total earnings if not using PKK 
+
+761476.12   Total (earnings - expenses) if using PKK
+828756.69   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+273898.59   Accumulated PKK 
+
+   --- Month 7, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1351462.00  Total earnings if using PKK
+1418989.62  Total earnings if not using PKK 
+
+764961.25   Total (earnings - expenses) if using PKK
+832489.81   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+274852.00   Accumulated PKK 
+
+   --- Month 8, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1356447.12  Total earnings if using PKK
+1424222.75  Total earnings if not using PKK 
+
+768446.38   Total (earnings - expenses) if using PKK
+836222.94   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+275805.44   Accumulated PKK 
+
+   --- Month 9, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1361432.25  Total earnings if using PKK
+1429455.88  Total earnings if not using PKK 
+
+771931.50   Total (earnings - expenses) if using PKK
+839956.06   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+276758.88   Accumulated PKK 
+
+   --- Month 10, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1366417.38  Total earnings if using PKK
+1434689.00  Total earnings if not using PKK 
+
+775416.62   Total (earnings - expenses) if using PKK
+843689.19   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+277712.28   Accumulated PKK 
+
+   --- Month 11, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1371402.50  Total earnings if using PKK
+1439922.12  Total earnings if not using PKK 
+
+778901.75   Total (earnings - expenses) if using PKK
+847422.31   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+278665.72   Accumulated PKK 
+
+   --- Month 12, Year: 32 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1376387.62  Total earnings if using PKK
+1445155.25  Total earnings if not using PKK 
+
+782386.88   Total (earnings - expenses) if using PKK
+851155.44   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+279619.16   Accumulated PKK 
+
+   --- Month 1, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1381372.75  Total earnings if using PKK
+1450388.38  Total earnings if not using PKK 
+
+785872.00   Total (earnings - expenses) if using PKK
+854888.56   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+286654.56   Accumulated PKK 
+
+   --- Month 2, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1386357.88  Total earnings if using PKK
+1455621.50  Total earnings if not using PKK 
+
+789357.12   Total (earnings - expenses) if using PKK
+858621.69   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+287627.06   Accumulated PKK 
+
+   --- Month 3, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1391343.00  Total earnings if using PKK
+1460854.62  Total earnings if not using PKK 
+
+792842.25   Total (earnings - expenses) if using PKK
+862354.81   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+288599.56   Accumulated PKK 
+
+   --- Month 4, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1396328.12  Total earnings if using PKK
+1466087.75  Total earnings if not using PKK 
+
+796327.38   Total (earnings - expenses) if using PKK
+866087.94   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+289572.06   Accumulated PKK 
+
+   --- Month 5, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1401313.25  Total earnings if using PKK
+1471320.88  Total earnings if not using PKK 
+
+799812.50   Total (earnings - expenses) if using PKK
+869821.06   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+290544.56   Accumulated PKK 
+
+   --- Month 6, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1406298.38  Total earnings if using PKK
+1476554.00  Total earnings if not using PKK 
+
+803297.62   Total (earnings - expenses) if using PKK
+873554.19   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+291517.06   Accumulated PKK 
+
+   --- Month 7, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1411283.50  Total earnings if using PKK
+1481787.12  Total earnings if not using PKK 
+
+806782.75   Total (earnings - expenses) if using PKK
+877287.31   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+292489.53   Accumulated PKK 
+
+   --- Month 8, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1416268.62  Total earnings if using PKK
+1487020.25  Total earnings if not using PKK 
+
+810267.88   Total (earnings - expenses) if using PKK
+881020.44   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+293462.03   Accumulated PKK 
+
+   --- Month 9, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1421253.75  Total earnings if using PKK
+1492253.38  Total earnings if not using PKK 
+
+813753.00   Total (earnings - expenses) if using PKK
+884753.56   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+294434.53   Accumulated PKK 
+
+   --- Month 10, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1426238.88  Total earnings if using PKK
+1497486.50  Total earnings if not using PKK 
+
+817238.12   Total (earnings - expenses) if using PKK
+888486.69   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+295407.03   Accumulated PKK 
+
+   --- Month 11, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1431224.00  Total earnings if using PKK
+1502719.62  Total earnings if not using PKK 
+
+820723.25   Total (earnings - expenses) if using PKK
+892219.81   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+296379.53   Accumulated PKK 
+
+   --- Month 12, Year: 33 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1436209.12  Total earnings if using PKK
+1507952.75  Total earnings if not using PKK 
+
+824208.38   Total (earnings - expenses) if using PKK
+895952.94   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+297352.03   Accumulated PKK 
+
+   --- Month 1, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1441194.25  Total earnings if using PKK
+1513185.88  Total earnings if not using PKK 
+
+827693.50   Total (earnings - expenses) if using PKK
+899686.06   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+304770.97   Accumulated PKK 
+
+   --- Month 2, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1446179.38  Total earnings if using PKK
+1518419.00  Total earnings if not using PKK 
+
+831178.62   Total (earnings - expenses) if using PKK
+903419.19   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+305762.91   Accumulated PKK 
+
+   --- Month 3, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1451164.50  Total earnings if using PKK
+1523652.12  Total earnings if not using PKK 
+
+834663.75   Total (earnings - expenses) if using PKK
+907152.31   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+306754.84   Accumulated PKK 
+
+   --- Month 4, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1456149.62  Total earnings if using PKK
+1528885.25  Total earnings if not using PKK 
+
+838148.88   Total (earnings - expenses) if using PKK
+910885.44   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+307746.81   Accumulated PKK 
+
+   --- Month 5, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1461134.75  Total earnings if using PKK
+1534118.38  Total earnings if not using PKK 
+
+841634.00   Total (earnings - expenses) if using PKK
+914618.56   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+308738.75   Accumulated PKK 
+
+   --- Month 6, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1466119.88  Total earnings if using PKK
+1539351.50  Total earnings if not using PKK 
+
+845119.12   Total (earnings - expenses) if using PKK
+918351.69   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+309730.69   Accumulated PKK 
+
+   --- Month 7, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1471105.00  Total earnings if using PKK
+1544584.62  Total earnings if not using PKK 
+
+848604.25   Total (earnings - expenses) if using PKK
+922084.81   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+310722.62   Accumulated PKK 
+
+   --- Month 8, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1476090.12  Total earnings if using PKK
+1549817.75  Total earnings if not using PKK 
+
+852089.38   Total (earnings - expenses) if using PKK
+925817.94   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+311714.59   Accumulated PKK 
+
+   --- Month 9, Year: 34 ---
+6200.00     Gross income this month
+4985.11     Net income if using PKK
+5233.11     Net income if not using PKK
+
+1481075.25  Total earnings if using PKK
+1555050.88  Total earnings if not using PKK 
+
+855574.50   Total (earnings - expenses) if using PKK
+929551.06   Total (earnings - expenses) is not using PKK 
+
+248.00      Employer cost 
+312706.53   Accumulated PKK 
+
+   --- Month 10, Year: 34 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1486222.75  Total earnings if using PKK
+1560454.38  Total earnings if not using PKK 
+
+859222.00   Total (earnings - expenses) if using PKK
+933454.56   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+313730.47   Accumulated PKK 
+
+   --- Month 11, Year: 34 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1491370.25  Total earnings if using PKK
+1565857.88  Total earnings if not using PKK 
+
+862869.50   Total (earnings - expenses) if using PKK
+937358.06   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+314754.41   Accumulated PKK 
+
+   --- Month 12, Year: 34 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1496517.75  Total earnings if using PKK
+1571261.38  Total earnings if not using PKK 
+
+866517.00   Total (earnings - expenses) if using PKK
+941261.56   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+315778.34   Accumulated PKK 
+
+   --- Month 1, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1501665.25  Total earnings if using PKK
+1576664.88  Total earnings if not using PKK 
+
+870164.50   Total (earnings - expenses) if using PKK
+945165.06   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+323627.91   Accumulated PKK 
+
+   --- Month 2, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1506812.75  Total earnings if using PKK
+1582068.38  Total earnings if not using PKK 
+
+873812.00   Total (earnings - expenses) if using PKK
+949068.56   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+324672.34   Accumulated PKK 
+
+   --- Month 3, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1511960.25  Total earnings if using PKK
+1587471.88  Total earnings if not using PKK 
+
+877459.50   Total (earnings - expenses) if using PKK
+952972.06   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+325716.75   Accumulated PKK 
+
+   --- Month 4, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1517107.75  Total earnings if using PKK
+1592875.38  Total earnings if not using PKK 
+
+881107.00   Total (earnings - expenses) if using PKK
+956875.56   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+326761.19   Accumulated PKK 
+
+   --- Month 5, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1522255.25  Total earnings if using PKK
+1598278.88  Total earnings if not using PKK 
+
+884754.50   Total (earnings - expenses) if using PKK
+960779.06   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+327805.59   Accumulated PKK 
+
+   --- Month 6, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1527402.75  Total earnings if using PKK
+1603682.38  Total earnings if not using PKK 
+
+888402.00   Total (earnings - expenses) if using PKK
+964682.56   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+328850.03   Accumulated PKK 
+
+   --- Month 7, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1532550.25  Total earnings if using PKK
+1609085.88  Total earnings if not using PKK 
+
+892049.50   Total (earnings - expenses) if using PKK
+968586.06   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+329894.44   Accumulated PKK 
+
+   --- Month 8, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1537697.75  Total earnings if using PKK
+1614489.38  Total earnings if not using PKK 
+
+895697.00   Total (earnings - expenses) if using PKK
+972489.56   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+330938.88   Accumulated PKK 
+
+   --- Month 9, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1542845.25  Total earnings if using PKK
+1619892.88  Total earnings if not using PKK 
+
+899344.50   Total (earnings - expenses) if using PKK
+976393.06   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+331983.28   Accumulated PKK 
+
+   --- Month 10, Year: 35 ---
+6400.00     Gross income this month
+5147.53     Net income if using PKK
+5403.53     Net income if not using PKK
+
+1547992.75  Total earnings if using PKK
+1625296.38  Total earnings if not using PKK 
+
+902992.00   Total (earnings - expenses) if using PKK
+980296.56   Total (earnings - expenses) is not using PKK 
+
+256.00      Employer cost 
+333027.72   Accumulated PKK 
+
+   --- Month 11, Year: 35 ---
+6600.00     Gross income this month
+5309.95     Net income if using PKK
+5573.95     Net income if not using PKK
+
+1553302.75  Total earnings if using PKK
+1630870.38  Total earnings if not using PKK 
+
+906801.94   Total (earnings - expenses) if using PKK
+984370.50   Total (earnings - expenses) is not using PKK 
+
+264.00      Employer cost 
+334104.75   Accumulated PKK 
+
+   --- Month 12, Year: 35 ---
+6600.00     Gross income this month
+5309.95     Net income if using PKK
+5573.95     Net income if not using PKK
+
+1558612.75  Total earnings if using PKK
+1636444.38  Total earnings if not using PKK 
+
+910611.88   Total (earnings - expenses) if using PKK
+988444.44   Total (earnings - expenses) is not using PKK 
+
+264.00      Employer cost 
+335181.81   Accumulated PKK 
+
+   --- Month 1, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1564085.12  Total earnings if using PKK
+1642188.75  Total earnings if not using PKK 
+
+914584.25   Total (earnings - expenses) if using PKK
+992688.81   Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+343516.72   Accumulated PKK 
+
+   --- Month 2, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1569557.50  Total earnings if using PKK
+1647933.12  Total earnings if not using PKK 
+
+918556.62   Total (earnings - expenses) if using PKK
+996933.19   Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+344648.59   Accumulated PKK 
+
+   --- Month 3, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1575029.88  Total earnings if using PKK
+1653677.50  Total earnings if not using PKK 
+
+922529.00   Total (earnings - expenses) if using PKK
+1001177.56  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+345780.50   Accumulated PKK 
+
+   --- Month 4, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1580502.25  Total earnings if using PKK
+1659421.88  Total earnings if not using PKK 
+
+926501.38   Total (earnings - expenses) if using PKK
+1005421.94  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+346912.38   Accumulated PKK 
+
+   --- Month 5, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1585974.62  Total earnings if using PKK
+1665166.25  Total earnings if not using PKK 
+
+930473.75   Total (earnings - expenses) if using PKK
+1009666.31  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+348044.28   Accumulated PKK 
+
+   --- Month 6, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1591447.00  Total earnings if using PKK
+1670910.62  Total earnings if not using PKK 
+
+934446.12   Total (earnings - expenses) if using PKK
+1013910.69  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+349176.16   Accumulated PKK 
+
+   --- Month 7, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1596919.38  Total earnings if using PKK
+1676655.00  Total earnings if not using PKK 
+
+938418.50   Total (earnings - expenses) if using PKK
+1018155.06  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+350308.06   Accumulated PKK 
+
+   --- Month 8, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1602391.75  Total earnings if using PKK
+1682399.38  Total earnings if not using PKK 
+
+942390.88   Total (earnings - expenses) if using PKK
+1022399.44  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+351439.94   Accumulated PKK 
+
+   --- Month 9, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1607864.12  Total earnings if using PKK
+1688143.75  Total earnings if not using PKK 
+
+946363.25   Total (earnings - expenses) if using PKK
+1026643.81  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+352571.84   Accumulated PKK 
+
+   --- Month 10, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1613336.50  Total earnings if using PKK
+1693888.12  Total earnings if not using PKK 
+
+950335.62   Total (earnings - expenses) if using PKK
+1030888.19  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+353703.75   Accumulated PKK 
+
+   --- Month 11, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1618808.88  Total earnings if using PKK
+1699632.50  Total earnings if not using PKK 
+
+954308.00   Total (earnings - expenses) if using PKK
+1035132.56  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+354835.62   Accumulated PKK 
+
+   --- Month 12, Year: 36 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1624281.25  Total earnings if using PKK
+1705376.88  Total earnings if not using PKK 
+
+958280.38   Total (earnings - expenses) if using PKK
+1039376.94  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+355967.53   Accumulated PKK 
+
+   --- Month 1, Year: 37 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1629753.62  Total earnings if using PKK
+1711121.25  Total earnings if not using PKK 
+
+962252.75   Total (earnings - expenses) if using PKK
+1043621.31  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+364750.75   Accumulated PKK 
+
+   --- Month 2, Year: 37 ---
+6800.00     Gross income this month
+5472.37     Net income if using PKK
+5744.37     Net income if not using PKK
+
+1635226.00  Total earnings if using PKK
+1716865.62  Total earnings if not using PKK 
+
+966225.12   Total (earnings - expenses) if using PKK
+1047865.69  Total (earnings - expenses) is not using PKK 
+
+272.00      Employer cost 
+365905.28   Accumulated PKK 
+
+   --- Month 3, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1640860.75  Total earnings if using PKK
+1722780.38  Total earnings if not using PKK 
+
+970359.94   Total (earnings - expenses) if using PKK
+1052280.50  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+367093.75   Accumulated PKK 
+
+   --- Month 4, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1646495.50  Total earnings if using PKK
+1728695.12  Total earnings if not using PKK 
+
+974494.75   Total (earnings - expenses) if using PKK
+1056695.25  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+368282.25   Accumulated PKK 
+
+   --- Month 5, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1652130.25  Total earnings if using PKK
+1734609.88  Total earnings if not using PKK 
+
+978629.56   Total (earnings - expenses) if using PKK
+1061110.00  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+369470.72   Accumulated PKK 
+
+   --- Month 6, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1657765.00  Total earnings if using PKK
+1740524.62  Total earnings if not using PKK 
+
+982764.38   Total (earnings - expenses) if using PKK
+1065524.75  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+370659.22   Accumulated PKK 
+
+   --- Month 7, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1663399.75  Total earnings if using PKK
+1746439.38  Total earnings if not using PKK 
+
+986899.19   Total (earnings - expenses) if using PKK
+1069939.50  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+371847.72   Accumulated PKK 
+
+   --- Month 8, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1669034.50  Total earnings if using PKK
+1752354.12  Total earnings if not using PKK 
+
+991034.00   Total (earnings - expenses) if using PKK
+1074354.25  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+373036.19   Accumulated PKK 
+
+   --- Month 9, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1674669.25  Total earnings if using PKK
+1758268.88  Total earnings if not using PKK 
+
+995168.81   Total (earnings - expenses) if using PKK
+1078769.00  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+374224.69   Accumulated PKK 
+
+   --- Month 10, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1680304.00  Total earnings if using PKK
+1764183.62  Total earnings if not using PKK 
+
+999303.62   Total (earnings - expenses) if using PKK
+1083183.75  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+375413.16   Accumulated PKK 
+
+   --- Month 11, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1685938.75  Total earnings if using PKK
+1770098.38  Total earnings if not using PKK 
+
+1003438.44  Total (earnings - expenses) if using PKK
+1087598.50  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+376601.66   Accumulated PKK 
+
+   --- Month 12, Year: 37 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1691573.50  Total earnings if using PKK
+1776013.12  Total earnings if not using PKK 
+
+1007573.25  Total (earnings - expenses) if using PKK
+1092013.25  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+377790.12   Accumulated PKK 
+
+   --- Month 1, Year: 38 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1697208.25  Total earnings if using PKK
+1781927.88  Total earnings if not using PKK 
+
+1011708.06  Total (earnings - expenses) if using PKK
+1096428.00  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+387077.72   Accumulated PKK 
+
+   --- Month 2, Year: 38 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1702843.00  Total earnings if using PKK
+1787842.62  Total earnings if not using PKK 
+
+1015842.88  Total (earnings - expenses) if using PKK
+1100842.75  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+388290.00   Accumulated PKK 
+
+   --- Month 3, Year: 38 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1708477.75  Total earnings if using PKK
+1793757.38  Total earnings if not using PKK 
+
+1019977.69  Total (earnings - expenses) if using PKK
+1105257.50  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+389502.25   Accumulated PKK 
+
+   --- Month 4, Year: 38 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1714112.50  Total earnings if using PKK
+1799672.12  Total earnings if not using PKK 
+
+1024112.50  Total (earnings - expenses) if using PKK
+1109672.25  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+390714.50   Accumulated PKK 
+
+   --- Month 5, Year: 38 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1719747.25  Total earnings if using PKK
+1805586.88  Total earnings if not using PKK 
+
+1028247.31  Total (earnings - expenses) if using PKK
+1114087.00  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+391926.75   Accumulated PKK 
+
+   --- Month 6, Year: 38 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1725382.00  Total earnings if using PKK
+1811501.62  Total earnings if not using PKK 
+
+1032382.12  Total (earnings - expenses) if using PKK
+1118501.75  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+393139.00   Accumulated PKK 
+
+   --- Month 7, Year: 38 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1731016.75  Total earnings if using PKK
+1817416.38  Total earnings if not using PKK 
+
+1036516.94  Total (earnings - expenses) if using PKK
+1122916.50  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+394351.28   Accumulated PKK 
+
+   --- Month 8, Year: 38 ---
+7000.00     Gross income this month
+5634.80     Net income if using PKK
+5914.80     Net income if not using PKK
+
+1736651.50  Total earnings if using PKK
+1823331.12  Total earnings if not using PKK 
+
+1040651.75  Total (earnings - expenses) if using PKK
+1127331.25  Total (earnings - expenses) is not using PKK 
+
+280.00      Employer cost 
+395563.53   Accumulated PKK 
+
+   --- Month 9, Year: 38 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1742448.75  Total earnings if using PKK
+1829416.38  Total earnings if not using PKK 
+
+1044949.00  Total (earnings - expenses) if using PKK
+1131916.50  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+396810.41   Accumulated PKK 
+
+   --- Month 10, Year: 38 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1748246.00  Total earnings if using PKK
+1835501.62  Total earnings if not using PKK 
+
+1049246.25  Total (earnings - expenses) if using PKK
+1136501.75  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+398057.31   Accumulated PKK 
+
+   --- Month 11, Year: 38 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1754043.25  Total earnings if using PKK
+1841586.88  Total earnings if not using PKK 
+
+1053543.50  Total (earnings - expenses) if using PKK
+1141087.00  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+399304.19   Accumulated PKK 
+
+   --- Month 12, Year: 38 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1759840.50  Total earnings if using PKK
+1847672.12  Total earnings if not using PKK 
+
+1057840.75  Total (earnings - expenses) if using PKK
+1145672.25  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+400551.09   Accumulated PKK 
+
+   --- Month 1, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1765637.75  Total earnings if using PKK
+1853757.38  Total earnings if not using PKK 
+
+1062138.00  Total (earnings - expenses) if using PKK
+1150257.50  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+410363.88   Accumulated PKK 
+
+   --- Month 2, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1771435.00  Total earnings if using PKK
+1859842.62  Total earnings if not using PKK 
+
+1066435.25  Total (earnings - expenses) if using PKK
+1154842.75  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+411635.69   Accumulated PKK 
+
+   --- Month 3, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1777232.25  Total earnings if using PKK
+1865927.88  Total earnings if not using PKK 
+
+1070732.50  Total (earnings - expenses) if using PKK
+1159428.00  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+412907.53   Accumulated PKK 
+
+   --- Month 4, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1783029.50  Total earnings if using PKK
+1872013.12  Total earnings if not using PKK 
+
+1075029.75  Total (earnings - expenses) if using PKK
+1164013.25  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+414179.34   Accumulated PKK 
+
+   --- Month 5, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1788826.75  Total earnings if using PKK
+1878098.38  Total earnings if not using PKK 
+
+1079327.00  Total (earnings - expenses) if using PKK
+1168598.50  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+415451.19   Accumulated PKK 
+
+   --- Month 6, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1794624.00  Total earnings if using PKK
+1884183.62  Total earnings if not using PKK 
+
+1083624.25  Total (earnings - expenses) if using PKK
+1173183.75  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+416723.00   Accumulated PKK 
+
+   --- Month 7, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1800421.25  Total earnings if using PKK
+1890268.88  Total earnings if not using PKK 
+
+1087921.50  Total (earnings - expenses) if using PKK
+1177769.00  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+417994.84   Accumulated PKK 
+
+   --- Month 8, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1806218.50  Total earnings if using PKK
+1896354.12  Total earnings if not using PKK 
+
+1092218.75  Total (earnings - expenses) if using PKK
+1182354.25  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+419266.69   Accumulated PKK 
+
+   --- Month 9, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1812015.75  Total earnings if using PKK
+1902439.38  Total earnings if not using PKK 
+
+1096516.00  Total (earnings - expenses) if using PKK
+1186939.50  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+420538.50   Accumulated PKK 
+
+   --- Month 10, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1817813.00  Total earnings if using PKK
+1908524.62  Total earnings if not using PKK 
+
+1100813.25  Total (earnings - expenses) if using PKK
+1191524.75  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+421810.34   Accumulated PKK 
+
+   --- Month 11, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1823610.25  Total earnings if using PKK
+1914609.88  Total earnings if not using PKK 
+
+1105110.50  Total (earnings - expenses) if using PKK
+1196110.00  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+423082.16   Accumulated PKK 
+
+   --- Month 12, Year: 39 ---
+7200.00     Gross income this month
+5797.22     Net income if using PKK
+6085.22     Net income if not using PKK
+
+1829407.50  Total earnings if using PKK
+1920695.12  Total earnings if not using PKK 
+
+1109407.75  Total (earnings - expenses) if using PKK
+1200695.25  Total (earnings - expenses) is not using PKK 
+
+288.00      Employer cost 
+424354.00   Accumulated PKK 
+

@@ -1,0 +1,95 @@
+\hypertarget{myNcursesLib_8c}{}\section{my\+Ncurses\+Lib.\+c File Reference}
+\label{myNcursesLib_8c}\index{myNcursesLib.c@{myNcursesLib.c}}
+
+
+Library of functions focused on creating and managing Ncurses menus.  
+
+
+{\ttfamily \#include \char`\"{}my\+Ncurses\+Lib.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$curses.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}main.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}data\+Types.\+h\char`\"{}}\newline
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{myNcursesLib_8c_a2a0393e0537019e1f23d5475d9d9c8c5}{ncurses\+\_\+start\+My\+Menu}} ()
+\begin{DoxyCompactList}\small\item\em Starts loop where you press down or up keyboard buttons to highlight menu option and press enter to select it. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{myNcursesLib_8c_a6d8729d173f206921050de3e48d0101e}{clicked\+Option\+In\+Main\+Menu}} (int i)
+\begin{DoxyCompactList}\small\item\em Starts loop where you press down or up keyboard buttons to highlight menu option and press enter to select it.~\newline
+ This method calls other important methods in this program, see \char`\"{}\+See also\+:\char`\"{}. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{myNcursesLib_8c_a3c5d7702ada7fd47d33342d51e626fb3}\label{myNcursesLib_8c_a3c5d7702ada7fd47d33342d51e626fb3}} 
+void \mbox{\hyperlink{myNcursesLib_8c_a3c5d7702ada7fd47d33342d51e626fb3}{ncurses\+\_\+\+Option\+\_\+show\+Loaded\+Data}} ()
+\begin{DoxyCompactList}\small\item\em Shows a box with all data loaded from \char`\"{}input\+Data.\+txt\char`\"{}.~\newline
+ The box requires clicking enter to hide it. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{myNcursesLib_8c_ad236a181eb2c13c111fef7349eccd028}{ncurses\+\_\+show\+Simulation\+Result}} (float \+\_\+pkk)
+\begin{DoxyCompactList}\small\item\em Shows a box with a summary of the simulation.~\newline
+ The box requires clicking enter to hide it. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Library of functions focused on creating and managing Ncurses menus. 
+
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{myNcursesLib_8c_a6d8729d173f206921050de3e48d0101e}\label{myNcursesLib_8c_a6d8729d173f206921050de3e48d0101e}} 
+\index{myNcursesLib.c@{myNcursesLib.c}!clickedOptionInMainMenu@{clickedOptionInMainMenu}}
+\index{clickedOptionInMainMenu@{clickedOptionInMainMenu}!myNcursesLib.c@{myNcursesLib.c}}
+\subsubsection{\texorpdfstring{clickedOptionInMainMenu()}{clickedOptionInMainMenu()}}
+{\footnotesize\ttfamily void clicked\+Option\+In\+Main\+Menu (\begin{DoxyParamCaption}\item[{int}]{i }\end{DoxyParamCaption})}
+
+
+
+Starts loop where you press down or up keyboard buttons to highlight menu option and press enter to select it.~\newline
+ This method calls other important methods in this program, see \char`\"{}\+See also\+:\char`\"{}. 
+
+\begin{DoxySeeAlso}{See also}
+\mbox{\hyperlink{simulate_8c_a3400922998537527a61f67f312ab5819}{simulate}} To \mbox{\hyperlink{simulate_8c_a3400922998537527a61f67f312ab5819}{simulate}} and in process create simulation.\+txt 
+
+\mbox{\hyperlink{myNcursesLib_8c_a3c5d7702ada7fd47d33342d51e626fb3}{ncurses\+\_\+\+Option\+\_\+show\+Loaded\+Data}} To show what data has been loaded from \char`\"{}input\+Data.\+txt\char`\"{} 
+
+\mbox{\hyperlink{fileOperations_8c_ada855556ce82d319a99e8ad31cc137c6}{read\+Data\+From\+File}} To reload data from \char`\"{}input\+Data.\+txt\char`\"{} 
+\end{DoxySeeAlso}
+
+\begin{DoxyParams}{Parameters}
+{\em i} & is the highlighted option index. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}
+\mbox{\Hypertarget{myNcursesLib_8c_ad236a181eb2c13c111fef7349eccd028}\label{myNcursesLib_8c_ad236a181eb2c13c111fef7349eccd028}} 
+\index{myNcursesLib.c@{myNcursesLib.c}!ncurses\_showSimulationResult@{ncurses\_showSimulationResult}}
+\index{ncurses\_showSimulationResult@{ncurses\_showSimulationResult}!myNcursesLib.c@{myNcursesLib.c}}
+\subsubsection{\texorpdfstring{ncurses\_showSimulationResult()}{ncurses\_showSimulationResult()}}
+{\footnotesize\ttfamily void ncurses\+\_\+show\+Simulation\+Result (\begin{DoxyParamCaption}\item[{float}]{\+\_\+pkk }\end{DoxyParamCaption})}
+
+
+
+Shows a box with a summary of the simulation.~\newline
+ The box requires clicking enter to hide it. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em \+\_\+pkk} & is how much money is collected in your P\+PK account in the end \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{myNcursesLib_8c_a2a0393e0537019e1f23d5475d9d9c8c5}\label{myNcursesLib_8c_a2a0393e0537019e1f23d5475d9d9c8c5}} 
+\index{myNcursesLib.c@{myNcursesLib.c}!ncurses\_startMyMenu@{ncurses\_startMyMenu}}
+\index{ncurses\_startMyMenu@{ncurses\_startMyMenu}!myNcursesLib.c@{myNcursesLib.c}}
+\subsubsection{\texorpdfstring{ncurses\_startMyMenu()}{ncurses\_startMyMenu()}}
+{\footnotesize\ttfamily void ncurses\+\_\+start\+My\+Menu (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Starts loop where you press down or up keyboard buttons to highlight menu option and press enter to select it. 
+
+\begin{DoxySeeAlso}{See also}
+\mbox{\hyperlink{myNcursesLib_8c_a6d8729d173f206921050de3e48d0101e}{clicked\+Option\+In\+Main\+Menu}} 
+\end{DoxySeeAlso}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}

@@ -3,6 +3,8 @@
         "stdio.h": "c",
         "myncurseslib.h": "c",
         "stdlib.h": "c",
-        "datatypes.h": "c"
+        "datatypes.h": "c",
+        "fileoperations.h": "c",
+        "types.h": "c"
     }
 }

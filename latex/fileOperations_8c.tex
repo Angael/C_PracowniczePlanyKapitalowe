@@ -1,0 +1,92 @@
+\hypertarget{fileOperations_8c}{}\section{file\+Operations.\+c File Reference}
+\label{fileOperations_8c}\index{fileOperations.c@{fileOperations.c}}
+
+
+Library of functions focused on file manipulation like reading and writing to them.  
+
+
+{\ttfamily \#include \char`\"{}file\+Operations.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}main.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}data\+Types.\+h\char`\"{}}\newline
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{fileOperations_8c_a17c209cbfa625bb0618fa5c2c8efeea4}{add\+Val\+To\+Input\+Data}} (int i, char s\mbox{[}$\,$\mbox{]}, \mbox{\hyperlink{structinputData}{input\+Data}} $\ast$p\+Values)
+\begin{DoxyCompactList}\small\item\em Converts string s to a float. Then saves this float to a specified, by line number i, property. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{fileOperations_8c_ada855556ce82d319a99e8ad31cc137c6}{read\+Data\+From\+File}} (char file\+Name\mbox{[}$\,$\mbox{]}, \mbox{\hyperlink{structinputData}{input\+Data}} $\ast$p\+Values)
+\begin{DoxyCompactList}\small\item\em Function that opens file with name file\+Name\mbox{[}\mbox{]} and reads it\textquotesingle{}s data, passing it to variable\textquotesingle{}s pointer in the parameters p\+Values. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{fileOperations_8c_aef4a90bfb52f2c6e9cdb901b0d1eb791}{save\+Simulation\+To\+File}} (\mbox{\hyperlink{structmonthStats}{month\+Stats}} simulation\mbox{[}$\,$\mbox{]}, int length)
+\begin{DoxyCompactList}\small\item\em Writes simulation\mbox{[}\mbox{]} array to \char`\"{}simulation.\+txt\char`\"{} file in a nice form. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Library of functions focused on file manipulation like reading and writing to them. 
+
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{fileOperations_8c_a17c209cbfa625bb0618fa5c2c8efeea4}\label{fileOperations_8c_a17c209cbfa625bb0618fa5c2c8efeea4}} 
+\index{fileOperations.c@{fileOperations.c}!addValToInputData@{addValToInputData}}
+\index{addValToInputData@{addValToInputData}!fileOperations.c@{fileOperations.c}}
+\subsubsection{\texorpdfstring{addValToInputData()}{addValToInputData()}}
+{\footnotesize\ttfamily void add\+Val\+To\+Input\+Data (\begin{DoxyParamCaption}\item[{int}]{i,  }\item[{char}]{s\mbox{[}$\,$\mbox{]},  }\item[{\mbox{\hyperlink{structinputData}{input\+Data}} $\ast$}]{p\+Values }\end{DoxyParamCaption})}
+
+
+
+Converts string s to a float. Then saves this float to a specified, by line number i, property. 
+
+
+\begin{DoxyParams}[1]{Parameters}
+ & {\em i} & Line number of a line in input\+Data.\+txt. Int \\
+\hline
+ & {\em s\mbox{[}$\,$\mbox{]}} & Is a string containing number. \\
+\hline
+\mbox{\texttt{ out}}  & {\em p\+Values} & is an \mbox{\hyperlink{structinputData}{input\+Data}} structure pointer. Data read from file is saved in this parameter.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}
+\mbox{\Hypertarget{fileOperations_8c_ada855556ce82d319a99e8ad31cc137c6}\label{fileOperations_8c_ada855556ce82d319a99e8ad31cc137c6}} 
+\index{fileOperations.c@{fileOperations.c}!readDataFromFile@{readDataFromFile}}
+\index{readDataFromFile@{readDataFromFile}!fileOperations.c@{fileOperations.c}}
+\subsubsection{\texorpdfstring{readDataFromFile()}{readDataFromFile()}}
+{\footnotesize\ttfamily void read\+Data\+From\+File (\begin{DoxyParamCaption}\item[{char}]{file\+Name\mbox{[}$\,$\mbox{]},  }\item[{\mbox{\hyperlink{structinputData}{input\+Data}} $\ast$}]{p\+Values }\end{DoxyParamCaption})}
+
+
+
+Function that opens file with name file\+Name\mbox{[}\mbox{]} and reads it\textquotesingle{}s data, passing it to variable\textquotesingle{}s pointer in the parameters p\+Values. 
+
+\begin{DoxySeeAlso}{See also}
+\mbox{\hyperlink{fileOperations_8c_a17c209cbfa625bb0618fa5c2c8efeea4}{add\+Val\+To\+Input\+Data}} 
+\end{DoxySeeAlso}
+
+\begin{DoxyParams}[1]{Parameters}
+ & {\em file\+Name\mbox{[}$\,$\mbox{]}} & is a string filename \\
+\hline
+\mbox{\texttt{ out}}  & {\em p\+Values} & is an \mbox{\hyperlink{structinputData}{input\+Data}} structure pointer. Data read from file is saved in this parameter.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}
+\mbox{\Hypertarget{fileOperations_8c_aef4a90bfb52f2c6e9cdb901b0d1eb791}\label{fileOperations_8c_aef4a90bfb52f2c6e9cdb901b0d1eb791}} 
+\index{fileOperations.c@{fileOperations.c}!saveSimulationToFile@{saveSimulationToFile}}
+\index{saveSimulationToFile@{saveSimulationToFile}!fileOperations.c@{fileOperations.c}}
+\subsubsection{\texorpdfstring{saveSimulationToFile()}{saveSimulationToFile()}}
+{\footnotesize\ttfamily void save\+Simulation\+To\+File (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{structmonthStats}{month\+Stats}}}]{simulation\mbox{[}$\,$\mbox{]},  }\item[{int}]{length }\end{DoxyParamCaption})}
+
+
+
+Writes simulation\mbox{[}\mbox{]} array to \char`\"{}simulation.\+txt\char`\"{} file in a nice form. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em simulation\mbox{[}$\,$\mbox{]}} & is an array of calculated month stats. \\
+\hline
+{\em length} & Describes how many months are in paramter simulation\mbox{[}\mbox{]}. Int \\
+\hline
+\end{DoxyParams}

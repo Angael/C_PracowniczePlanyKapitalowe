@@ -1,0 +1,18 @@
+\hypertarget{inputData_name}{}\section{Name of the file}\label{inputData_name}
+File with inuput data needs to be placed in the same directory as \mbox{\hyperlink{main_8c}{main.\+c}} .~\newline
+ It\textquotesingle{}s name is always \char`\"{}input\+Data.\+txt\char`\"{}~\newline
+ This program loads input\+Data.\+txt automatically with it\textquotesingle{}s start.\hypertarget{inputData_howto}{}\subsection{How to place data in it}\label{inputData_howto}
+Every line in this file describes one variable.~\newline
+ Variables are written on the beggining of a line and end with \# sign.~\newline
+ Everything after \# sign is a comment and doesn\textquotesingle{}t affect the variable.~\newline
+ Because of how the program works, it\textquotesingle{}s lines must not be too long, and that means the comment can\textquotesingle{}t be infinitely long as C expects only so much data to be read in one line. \hypertarget{inputData_subsection2}{}\subsection{Example contents of input\+Data.\+txt}\label{inputData_subsection2}
+1500\# Miesieczny koszt utrzymania \mbox{[}int\mbox{]}~\newline
+ 20\# Poczatek pracy \mbox{[}int rok zycia\mbox{]}~\newline
+ 60\# Emerytura w \mbox{[}int rok zycia\mbox{]}~\newline
+ 2000\# Startowa Pensja brutto \mbox{[}int zl\mbox{]}~\newline
+ 4.\+5\# Miesieczna szansa na podwyzke \mbox{[}float 0-\/100\mbox{]}~\newline
+ 200\# Srednia Wysokosc podwyzki \mbox{[}float\mbox{]}~\newline
+ 2.\+0\# Opcjonalny procent odkladany na P\+PK przez Pracownika \mbox{[}float 0-\/2\mbox{]}~\newline
+ 2.\+5\# Opcjonalny procent odkladany na P\+PK przez Pracodawce \mbox{[}float 0-\/2.\+5\mbox{]}~\newline
+ 120\# W ilu ratach ma byc wyplacane P\+KK \mbox{[}int 120-\/480\mbox{]}~\newline
+ 2\# Roczny Wskaznik Inflacji w Procentach \mbox{[}float\mbox{]} 

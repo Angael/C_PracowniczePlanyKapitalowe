@@ -1,0 +1,134 @@
+\hypertarget{simulate_8c}{}\section{simulate.\+c File Reference}
+\label{simulate_8c}\index{simulate.c@{simulate.c}}
+
+
+Library of functions focused on simulating P\+KK returns, expenses. ~\newline
+ Mainly math.  
+
+
+{\ttfamily \#include \char`\"{}simulate.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$curses.\+h$>$}\newline
+{\ttfamily \#include $<$time.\+h$>$}\newline
+{\ttfamily \#include $<$math.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}main.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}my\+Ncurses\+Lib.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}data\+Types.\+h\char`\"{}}\newline
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{simulate_8c_a296ff938592ef16e116432e86ab3e8e9}\label{simulate_8c_a296ff938592ef16e116432e86ab3e8e9}} 
+\#define {\bfseries placa\+Minimalna}~2100
+\item 
+\mbox{\Hypertarget{simulate_8c_afcb150db61c230b6b841e74c8435659d}\label{simulate_8c_afcb150db61c230b6b841e74c8435659d}} 
+\#define {\bfseries miesieczna\+Doplata\+Od\+Panstwa}~20
+\item 
+\mbox{\Hypertarget{simulate_8c_a80af27e8e6fcfd2d284c90167a4c79e8}\label{simulate_8c_a80af27e8e6fcfd2d284c90167a4c79e8}} 
+\#define {\bfseries startowa\+Doplata\+Od\+Panstwa}~250
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{simulate_8c_a3400922998537527a61f67f312ab5819}{simulate}} (int months\+Count)
+\begin{DoxyCompactList}\small\item\em Simulates every month of giving money to P\+PK. ~\newline
+ This function exists to fill array of \mbox{\hyperlink{structmonthStats}{month\+Stats}} with data. ~\newline
+ This method calls other methods in this library, see \char`\"{}\+See also\+:\char`\"{}. \end{DoxyCompactList}\item 
+float \mbox{\hyperlink{simulate_8c_af67bd7c5793f83901741a3b2a0094e98}{get\+Net\+Gain}} (float gross\+Income)
+\begin{DoxyCompactList}\small\item\em This function returns net value of income this month. \end{DoxyCompactList}\item 
+float \mbox{\hyperlink{simulate_8c_aa65f406490740de8d7878d70cc590453}{get\+Raise\+Value}} ()
+\begin{DoxyCompactList}\small\item\em This function returns the size of the increase in income.~\newline
+ It can return 0 or input\+Data\+\_\+values.\+raise\+Avg\+Amount depending on chance from \char`\"{}input\+Data.\+txt\char`\"{}. \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{simulate_8c_a4e13a206ca93657fdbd88374530ef603}{get\+Value\+After\+Inflation}} (float value, int year)
+\begin{DoxyCompactList}\small\item\em Returns the value adjusted for inflation after $<$year$>$ of years. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Library of functions focused on simulating P\+KK returns, expenses. ~\newline
+ Mainly math. 
+
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{simulate_8c_af67bd7c5793f83901741a3b2a0094e98}\label{simulate_8c_af67bd7c5793f83901741a3b2a0094e98}} 
+\index{simulate.c@{simulate.c}!getNetGain@{getNetGain}}
+\index{getNetGain@{getNetGain}!simulate.c@{simulate.c}}
+\subsubsection{\texorpdfstring{getNetGain()}{getNetGain()}}
+{\footnotesize\ttfamily get\+Net\+Gain (\begin{DoxyParamCaption}\item[{float}]{gross\+Income }\end{DoxyParamCaption})}
+
+
+
+This function returns net value of income this month. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em gross\+Income} & is your gross income per month (Brutto). Float \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+float Net gain/income this month. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{simulate_8c_aa65f406490740de8d7878d70cc590453}\label{simulate_8c_aa65f406490740de8d7878d70cc590453}} 
+\index{simulate.c@{simulate.c}!getRaiseValue@{getRaiseValue}}
+\index{getRaiseValue@{getRaiseValue}!simulate.c@{simulate.c}}
+\subsubsection{\texorpdfstring{getRaiseValue()}{getRaiseValue()}}
+{\footnotesize\ttfamily float get\+Raise\+Value (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+This function returns the size of the increase in income.~\newline
+ It can return 0 or input\+Data\+\_\+values.\+raise\+Avg\+Amount depending on chance from \char`\"{}input\+Data.\+txt\char`\"{}. 
+
+\begin{DoxyReturn}{Returns}
+float of the increase in income 
+\end{DoxyReturn}
+\mbox{\Hypertarget{simulate_8c_a4e13a206ca93657fdbd88374530ef603}\label{simulate_8c_a4e13a206ca93657fdbd88374530ef603}} 
+\index{simulate.c@{simulate.c}!getValueAfterInflation@{getValueAfterInflation}}
+\index{getValueAfterInflation@{getValueAfterInflation}!simulate.c@{simulate.c}}
+\subsubsection{\texorpdfstring{getValueAfterInflation()}{getValueAfterInflation()}}
+{\footnotesize\ttfamily double get\+Value\+After\+Inflation (\begin{DoxyParamCaption}\item[{float}]{value,  }\item[{int}]{year }\end{DoxyParamCaption})}
+
+
+
+Returns the value adjusted for inflation after $<$year$>$ of years. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em value} & is your gross income per month (Brutto). Float \\
+\hline
+{\em year} & is your gross income per month (Brutto). Float \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+the value adjusted for inflation after $<$year$>$ of years. Double 
+\end{DoxyReturn}
+\mbox{\Hypertarget{simulate_8c_a3400922998537527a61f67f312ab5819}\label{simulate_8c_a3400922998537527a61f67f312ab5819}} 
+\index{simulate.c@{simulate.c}!simulate@{simulate}}
+\index{simulate@{simulate}!simulate.c@{simulate.c}}
+\subsubsection{\texorpdfstring{simulate()}{simulate()}}
+{\footnotesize\ttfamily void simulate (\begin{DoxyParamCaption}\item[{int}]{months\+Count }\end{DoxyParamCaption})}
+
+
+
+Simulates every month of giving money to P\+PK. ~\newline
+ This function exists to fill array of \mbox{\hyperlink{structmonthStats}{month\+Stats}} with data. ~\newline
+ This method calls other methods in this library, see \char`\"{}\+See also\+:\char`\"{}. 
+
+Obliczenia przeprowadzono analogicznie do strony\+: \href{http://e-prawapracownika.pl/3458/obliczyc-wynagrodzenie-netto-2018/}{\texttt{ http\+://e-\/prawapracownika.\+pl/3458/obliczyc-\/wynagrodzenie-\/netto-\/2018/}} i \href{https://pracowniczeplanykapitalowe.org.pl/}{\texttt{ https\+://pracowniczeplanykapitalowe.\+org.\+pl/}}
+
+\begin{DoxySeeAlso}{See also}
+\mbox{\hyperlink{simulate_8c_aa65f406490740de8d7878d70cc590453}{get\+Raise\+Value}} 
+
+\mbox{\hyperlink{simulate_8c_af67bd7c5793f83901741a3b2a0094e98}{get\+Net\+Gain}} 
+
+\mbox{\hyperlink{simulate_8c_a4e13a206ca93657fdbd88374530ef603}{get\+Value\+After\+Inflation}} 
+\end{DoxySeeAlso}
+
+\begin{DoxyParams}{Parameters}
+{\em months\+Count} & is number of months to simulate. Int \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void 
+\end{DoxyReturn}
